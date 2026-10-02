@@ -1,0 +1,5 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,roc_auc_ovr_macro,test_samples,status,notes
+GCN,0.8024691358024691,0.7858483483483484,0.8071569352057159,0.794558860920417,0.9038583514009538,162,Evaluated,Held-out stratified test split; random_state=42.
+GAT,0.7901234567901234,0.7733407430930453,0.8077317894391065,0.7827961979227092,0.9329307906566644,162,Evaluated,Saved checkpoint; held-out split random_state=42; excluded 6 train and 1 validation rows for normalized-pair leakage prevention.
+Proposed HGNN,0.8641975308641975,0.85062490112324,0.8774328652377433,0.8559197181594961,0.9727908130487823,162,Evaluated,Saved checkpoint; held-out split random_state=42; excluded 6 train and 1 validation rows for normalized-pair leakage prevention.
+GraphSAGE,,,,,,,Not evaluated yet,No standalone GraphSAGE-only checkpoint is available; GAT + GraphSAGE ablation is not a standalone GraphSAGE baseline.

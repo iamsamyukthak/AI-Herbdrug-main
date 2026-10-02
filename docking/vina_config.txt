@@ -1,0 +1,13 @@
+receptor = docking\receptors\CYP3A4_clean.pdbqt
+ligand = docking\ligands\quercetin.pdbqt
+
+center_x = -17.114
+center_y = -24.427
+center_z = -11.868
+
+size_x = 30
+size_y = 30
+size_z = 30
+
+exhaustiveness = 8
+num_modes = 9

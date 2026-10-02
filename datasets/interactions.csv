@@ -1,0 +1,11 @@
+Herb,Drug,Interaction,Risk
+Turmeric,Warfarin,1,High
+Garlic,Aspirin,1,High
+Ginger,Ibuprofen,1,Medium
+Ashwagandha,Metformin,1,Medium
+Ginseng,Atorvastatin,1,Medium
+Fenugreek,Clopidogrel,1,Medium
+Neem,Warfarin,1,High
+Licorice,Amlodipine,1,Medium
+Tulsi,Omeprazole,0,Low
+Aloe Vera,Losartan,0,Low

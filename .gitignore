@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+.env
+.env.*
+
+# IDE and cache
+.vscode/
+.streamlit/secrets.toml
+.pytest_cache/
+
+# Generated docking results
+docking/results/

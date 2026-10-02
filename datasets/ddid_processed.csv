@@ -1,0 +1,1615 @@
+Herb,Drug,Risk,Effects,Evidence_Count,PMIDs,Label
+Abelmoschus manihot,Midazolam,High,Negative,1,21680781,2
+Acacia catechu,Aspirin,Medium,Possible,1,32325408,1
+Acacia nilotica,Midazolam,High,Negative,1,21680781,2
+Acanthus ilicifolius,Midazolam,High,Negative,1,21680781,2
+Acanthus ilicifolius,Tacrolimus,High,Harmful,1,32930420,2
+Achillea millefolium,Tacrolimus,High,Harmful,1,32930420,2
+Acorus calamus,Acetaminophen,Low,No Effect,1,18480186,0
+Acorus calamus,Everolimus,High,Harmful,1,29112694,2
+Acorus calamus,Flurbiprofen,Low,No Effect,1,18480186,0
+Acorus calamus,Midazolam,Low,No Effect,1,18480186,0
+Acorus calamus,Phenylephrine,Medium,Possible,1,30368855,1
+Acorus calamus,Talinolol,High,Negative,1,17468862,2
+Actaea Racemosa,Digoxin,Low,No Effect,1,16221754,0
+Actinidia arguta,Aspirin,Medium,Possible,1,32325408,1
+Actinidia callosa var. henryi,Aspirin,Medium,Possible,1,32325408,1
+Actinidia chrysantha,Aspirin,Medium,Possible,1,32325408,1
+Actinidia deliciosa,Aspirin,Medium,Possible,1,32325408,1
+Actinidia eriantha,Aspirin,Medium,Possible,1,32325408,1
+Actinidia glaucophylla,Aspirin,Medium,Possible,1,32325408,1
+Actinidia latifolia,Aspirin,Medium,Possible,1,32325408,1
+Actinidia rubricaulis var. coriacea,Aspirin,Medium,Possible,1,32325408,1
+Adenanthera pavonina,Tacrolimus,High,Harmful,1,32930420,2
+Adonis amurensis,Tacrolimus,High,Harmful,1,32930420,2
+Ageratum conyzoides,Midazolam,High,Negative,1,21680781,2
+Ailanthi Altissimae Fructus,Midazolam,High,Negative,1,21680781,2
+Aloe,Clevidipine,High,Negative,1,28892755,2
+Aloe,Midazolam,High,Negative,1,21680781,2
+Alpiniae Officirum Rhizome,Acetaminophen,Low,No Effect,1,18480186,0
+Alpiniae Officirum Rhizome,Everolimus,High,Harmful,1,29112694,2
+Alpiniae Officirum Rhizome,Flurbiprofen,Low,No Effect,1,18480186,0
+Alpiniae Officirum Rhizome,Midazolam,High,"Negative, No Effect",2,"18480186, 21680781",2
+Alpiniae Officirum Rhizome,Phenylephrine,Medium,Possible,1,30368855,1
+Alpiniae Officirum Rhizome,Talinolol,High,Negative,1,17468862,2
+Amberboa ramosa,Tacrolimus,High,Harmful,1,32930420,2
+American Ginseng,Warfarin,Medium,Possible,1,15238367,1
+Ampelopsis brevipedunculata,Midazolam,High,Negative,1,21680781,2
+Ampelopsis brevipedunculata,Tacrolimus,High,Harmful,1,32930420,2
+Ampelopsis grossedentata,Midazolam,High,Negative,1,21680781,2
+Ampelopsis megalophylla,Midazolam,High,Negative,1,21680781,2
+Ancistrocladus korupensis,Doxorubicin,Medium,Possible,1,25947916,1
+Andrographis elongata,Doxorubicin,Medium,Possible,1,25947916,1
+Angelica Sinensis,Warfarin,High,Harmful,1,10675182,2
+Angelica sinensis,Aspirin,Low,No Effect,1,28732813,0
+Angelicae Tenuissima Radix,Caffeine,High,Negative,1,19422358,2
+Angelicae Tenuissima Radix,Chlorzoxazone,Low,No Effect,1,19422358,0
+Angelicae Tenuissima Radix,Dextromethorphan,Low,No Effect,1,19422358,0
+Angelicae Tenuissima Radix,Losartan,Low,No Effect,1,19422358,0
+Angelicae Tenuissima Radix,Midazolam,Low,No Effect,1,19422358,0
+Angelicae Tenuissima Radix,Omeprazole,Low,No Effect,1,19422358,0
+Anthriscus sylvestris,Aluminum Hydroxide,Medium,Possible,1,6834247,1
+Apis mellifera ligustica,Midazolam,High,Negative,1,21680781,2
+Apis mellifera ligustica,Tacrolimus,High,Harmful,1,32930420,2
+Apium graveolens,Tacrolimus,High,Harmful,1,32930420,2
+Apium graveolens var. dulce,Tacrolimus,High,Harmful,1,32930420,2
+Apocynum venetum,Midazolam,High,Negative,1,21680781,2
+Aquilaria sinensis,Doxorubicin,Medium,Possible,1,25947916,1
+Aquilegia ecalcarata,Doxorubicin,Medium,Possible,1,25947916,1
+Aquilegia ecalcarata,Tacrolimus,High,Harmful,1,32930420,2
+Arachis hypogaea,Doxorubicin,Medium,Possible,2,25947916,1
+Arctium Lappa,Busulfan,High,Harmful,1,24185586,2
+Ardisia colorata,Midazolam,High,Negative,1,21680781,2
+Ardisia japonica,Midazolam,High,Negative,1,21680781,2
+Ardisiae japonicae,Midazolam,High,Negative,1,21680781,2
+Aronia Melanocarpa,Trabectedin,High,Harmful,1,23899130,2
+Artemisia Annua,Omeprazole,High,Negative,1,9728896,2
+Artemisia Capillaris,Omeprazole,High,Negative,1,17883958,2
+Artemisia annua,Clevidipine,High,Negative,1,28892755,2
+Artemisia annua,Doxorubicin,Medium,Possible,1,25947916,1
+Artemisia annua,Midazolam,High,Negative,1,21680781,2
+Asparagus cochinchinensis [Syn. Asparagus lucidus ],Midazolam,High,Negative,1,21680781,2
+Aspongopus,Alendronic Acid,High,Negative,1,7554702,2
+Aspongopus,Lusutrombopag,Low,No Effect,1,31566757,0
+BAI HUA SHUI FEI JI,Caffeine,Low,No Effect,1,25028567,0
+BAI HUA SHUI FEI JI,Dextromethorphan,Low,No Effect,1,25028567,0
+BAI HUA SHUI FEI JI,Midazolam,Low,No Effect,1,25028567,0
+BAI HUA SHUI FEI JI,Nifedipine,Low,No Effect,1,17968815,0
+BAI HUA SHUI FEI JI,Tolbutamide,Low,No Effect,1,25028567,0
+Bacopa monniera,Doxorubicin,Medium,Possible,1,25947916,1
+Bacopa monniera,Tacrolimus,High,Harmful,1,32930420,2
+Bauhinia malabarica,Midazolam,High,Negative,1,21680781,2
+Berberis amurensis,Caffeine,Low,No Effect,1,21870106,0
+Berberis amurensis,Dextromethorphan,High,Negative,1,21870106,2
+Berberis amurensis,Losartan,High,Negative,1,21870106,2
+Berberis amurensis,Omeprazole,Low,No Effect,1,21870106,0
+Berberis amurensis,Rosuvastatin,Medium,Possible,1,32292349,1
+Berberis amurensis,Tacrolimus,High,Harmful,1,23765408,2
+Berberis diaphana,Caffeine,Low,No Effect,1,21870106,0
+Berberis diaphana,Dextromethorphan,High,Negative,1,21870106,2
+Berberis diaphana,Losartan,High,Negative,1,21870106,2
+Berberis diaphana,Omeprazole,Low,No Effect,1,21870106,0
+Berberis diaphana,Rosuvastatin,Medium,Possible,1,32292349,1
+Berberis diaphana,Tacrolimus,High,Harmful,1,23765408,2
+Berberis wilsonae,Caffeine,Low,No Effect,1,21870106,0
+Berberis wilsonae,Dextromethorphan,High,Negative,1,21870106,2
+Berberis wilsonae,Losartan,High,Negative,1,21870106,2
+Berberis wilsonae,Omeprazole,Low,No Effect,1,21870106,0
+Berberis wilsonae,Rosuvastatin,Medium,Possible,1,32292349,1
+Berberis wilsonae,Tacrolimus,High,Harmful,1,23765408,2
+Bidens tripartita,Doxorubicin,Medium,Possible,1,25947916,1
+Bidens tripartita,Midazolam,High,Negative,1,21680781,2
+Bidens tripartita,Tacrolimus,High,Harmful,1,32930420,2
+Boldo,Tacrolimus,High,Harmful,1,24981811,2
+Borneolum syntheticum,Clevidipine,High,Negative,1,28892755,2
+Borneolum syntheticum,Cyclosporine,Low,No Effect,1,31156436,0
+Brandisia hancei,Doxorubicin,Medium,Possible,1,25947916,1
+Brassica oleracea var. capitata,Doxorubicin,Medium,Possible,1,25947916,1
+Brassica oleracea var. capitata,Midazolam,High,Negative,1,21680781,2
+Broussonetia papyrifera,Phenylephrine,Medium,Possible,1,30368855,1
+Buddleia officinalis Maxim,Tacrolimus,High,Harmful,1,32930420,2
+Bulbus Allii Macrostemi,Midazolam,High,Negative,1,21680781,2
+Bulbus Fritillariae Cirrhosae,Midazolam,Medium,Possible,1,21943317,1
+Bulbus Fritillariae Cirrhosae,Talinolol,Medium,Possible,1,21943317,1
+Bupleurum sibiricum,Midazolam,High,Negative,1,21680781,2
+Bupleurum smithii var. parvifolium,Midazolam,High,Negative,1,21680781,2
+CUI TU LUO FU MU,Clonidine,High,Harmful,1,25336552,2
+Cacumen Tamaricis,Midazolam,High,Negative,1,21680781,2
+Cacumen et Folium Biotae,Midazolam,High,Negative,1,21680781,2
+Cacumen et Folium Biotae,Tacrolimus,High,Harmful,1,32930420,2
+Caesalpinia sappan,Midazolam,High,Negative,1,21680781,2
+Calcitum,Alendronic Acid,High,Negative,1,7554702,2
+Calcitum,Lusutrombopag,Low,No Effect,1,31566757,0
+Calycis Melo,Fexofenadine,High,Negative,1,17301733,2
+Calycis Melo,Nisoldipine,Low,No Effect,1,8275614,0
+Calyx Kaki,Midazolam,High,Negative,1,21680781,2
+Camellia sinensis [Syn. Thea sinensis],Aspirin,Medium,Possible,1,32325408,1
+Camellia sinensis [Syn. Thea sinensis],Buspirone,Low,No Effect,1,17164372,0
+Camellia sinensis [Syn. Thea sinensis],Caffeine,Low,No Effect,1,17164372,0
+Camellia sinensis [Syn. Thea sinensis],Dextromethorphan,Low,No Effect,1,17164372,0
+Camellia sinensis [Syn. Thea sinensis],Ibuprofen,Low,No Effect,3,30897305,0
+Camellia sinensis [Syn. Thea sinensis],Losartan,Low,No Effect,1,17164372,0
+Camellia sinensis [Syn. Thea sinensis],Nadolol,High,Negative,2,29480324,2
+Camellia sinensis [Syn. Thea sinensis],Potassium,Medium,Possible,3,3297472,1
+Camellia sinensis [Syn. Thea sinensis],Rosuvastatin,Medium,Possible,4,"28533679, 32407265",1
+Camellia sinensis [Syn. Thea sinensis],Sodium Chloride,Medium,Possible,3,3297472,1
+Camellia sinensis var. assamica,Ibuprofen,Low,No Effect,1,30897305,0
+Camellia sinensis var. assamica,Potassium,Medium,Possible,1,3297472,1
+Camellia sinensis var. assamica,Sodium Chloride,Medium,Possible,1,3297472,1
+Campsis grandiflora,Tacrolimus,High,Harmful,1,32930420,2
+Camptotheca acuminata,Midazolam,High,Negative,1,21680781,2
+Cannabis sativa,Acetaminophen,Low,No Effect,1,18480186,0
+Cannabis sativa,Carbamazepine,Medium,Possible,1,19283724,1
+Cannabis sativa,Flurbiprofen,Low,No Effect,1,18480186,0
+Cannabis sativa,Midazolam,Medium,"No Effect, Possible",2,"18480186, 24398010",1
+Cannabis sativa,Phenytoin,Medium,Possible,2,16767797,1
+Caragana tibetica,Phenylephrine,Medium,Possible,1,30368855,1
+Catechu,Midazolam,High,Negative,1,21680781,2
+Caulis Clematidis Armandii,Clevidipine,High,Negative,1,28892755,2
+Caulis Clematidis Armandii,Cyclosporine,Low,No Effect,1,31156436,0
+Caulis Genkwa,Acetaminophen,Low,No Effect,1,18480186,0
+Caulis Genkwa,Everolimus,High,Harmful,1,29112694,2
+Caulis Genkwa,Flurbiprofen,Low,No Effect,1,18480186,0
+Caulis Genkwa,Midazolam,Low,No Effect,1,18480186,0
+Caulis Genkwa,Phenylephrine,Medium,Possible,1,30368855,1
+Caulis Genkwa,Talinolol,High,Negative,1,17468862,2
+Caulis Mahoniae,Caffeine,Low,No Effect,1,21870106,0
+Caulis Mahoniae,Dextromethorphan,High,Negative,1,21870106,2
+Caulis Mahoniae,Losartan,High,Negative,1,21870106,2
+Caulis Mahoniae,Midazolam,Medium,Possible,1,21943317,1
+Caulis Mahoniae,Omeprazole,Low,No Effect,1,21870106,0
+Caulis Mahoniae,Rosuvastatin,Medium,Possible,1,32292349,1
+Caulis Mahoniae,Tacrolimus,High,Harmful,1,23765408,2
+Caulis Mahoniae,Talinolol,Medium,Possible,1,21943317,1
+Caulis Millettiae; Caulis spatholobi,Doxorubicin,Medium,Possible,1,25947916,1
+Caulis Millettiae; Caulis spatholobi,Midazolam,Medium,Possible,1,21943317,1
+Caulis Millettiae; Caulis spatholobi,Talinolol,Medium,Possible,1,21943317,1
+Caulis Trachelospermi,Doxorubicin,Medium,Possible,1,25947916,1
+Caulis Trachelospermi,Tacrolimus,High,Harmful,1,32930420,2
+Centella Asiatica,Venlafaxine,High,Harmful,1,25029655,2
+Cephalotaxus fortunei,Tacrolimus,High,Harmful,1,32930420,2
+Cephalotaxus wilsoniana,Tacrolimus,High,Harmful,1,32930420,2
+Chamaecyparis pisifera,Tacrolimus,High,Harmful,1,32930420,2
+Chelidonii Herba,Caffeine,Low,No Effect,1,21870106,0
+Chelidonii Herba,Dextromethorphan,High,Negative,1,21870106,2
+Chelidonii Herba,Losartan,High,Negative,1,21870106,2
+Chelidonii Herba,Omeprazole,Low,No Effect,1,21870106,0
+Chelidonii Herba,Rosuvastatin,Medium,Possible,1,32292349,1
+Chelidonii Herba,Tacrolimus,High,Harmful,1,23765408,2
+Chrysanthemum boreale,Tacrolimus,High,Harmful,1,32930420,2
+Chrysanthemum indicum,Doxorubicin,Medium,Possible,1,25947916,1
+Chrysanthemum indicum,Midazolam,High,Negative,1,21680781,2
+Chrysanthemum indicum,Tacrolimus,High,Harmful,1,32930420,2
+Chrysanthemum morifoliumRamat,Doxorubicin,Medium,Possible,1,25947916,1
+Cimicifuga Racemosa,Caffeine,Low,No Effect,1,15900287,0
+Cimicifuga Racemosa,Chlorzoxazone,Low,No Effect,1,15900287,0
+Cimicifuga Racemosa,Debrisoquin,Medium,"No Effect, Possible",2,"15900287, 18214849",1
+Cimicifuga Racemosa,Midazolam,Low,No Effect,1,15900287,0
+Citrus reticulata,Fexofenadine,High,Negative,1,17301733,2
+Citrus reticulata,Nisoldipine,Low,No Effect,1,8275614,0
+Clerodendron cyrtophyllum,Doxorubicin,Medium,Possible,1,25947916,1
+Clerodendron cyrtophyllum,Midazolam,High,Negative,1,21680781,2
+Cnicus Benedictus,Busulfan,High,Harmful,1,24185586,2
+Coffea arabica,Ibuprofen,Low,No Effect,1,30897305,0
+Coffea arabica,Potassium,Medium,Possible,1,3297472,1
+Coffea arabica,Sodium Chloride,Medium,Possible,1,3297472,1
+Coffea excelsa,Ibuprofen,Low,No Effect,1,30897305,0
+Coffea excelsa,Potassium,Medium,Possible,1,3297472,1
+Coffea excelsa,Sodium Chloride,Medium,Possible,1,3297472,1
+Coffea liberica,Ibuprofen,Low,No Effect,1,30897305,0
+Coffea liberica,Potassium,Medium,Possible,1,3297472,1
+Coffea liberica,Sodium Chloride,Medium,Possible,1,3297472,1
+Coffee,Acetaminophen,Medium,Possible,3,8360789,1
+Coffee,Alendronic Acid,High,Negative,3,7554702,2
+Coffee,Anagrelide,Low,No Effect,3,23184666,0
+Coffee,Aspirin,Medium,Possible,3,32775441,1
+Coffee,Calcium,Medium,Possible,3,32775441,1
+Coffee,Ergotamine,Medium,Possible,3,32775441,1
+Coffee,Escitalopram,Medium,Possible,3,32775441,1
+Coffee,Felodipine,Medium,Possible,3,27481881,1
+Coffee,Halofantrine,Medium,Possible,3,32775441,1
+Coffee,Iron,Medium,Possible,3,32775441,1
+Coffee,Levodopa,Medium,Possible,3,32775441,1
+Coffee,Levothyroxine,Medium,Possible,3,18341376,1
+Coffee,Midazolam,Medium,Possible,3,32775441,1
+Coffee,Phenothiazine,Medium,Possible,3,32775441,1
+Coffee,Vitamin D,Medium,Possible,3,32775441,1
+Cola acuminata,Ibuprofen,Low,No Effect,1,30897305,0
+Cola acuminata,Potassium,Medium,Possible,1,3297472,1
+Cola acuminata,Sodium Chloride,Medium,Possible,1,3297472,1
+Colla carapacis et plastri testudinis,Alendronic Acid,High,Negative,1,7554702,2
+Colla carapacis et plastri testudinis,Lusutrombopag,Low,No Effect,1,31566757,0
+Colubrina Arborescens,Warfarin,High,Harmful,1,27543375,2
+Concha Arcae,Alendronic Acid,High,Negative,1,7554702,2
+Concha Arcae,Lusutrombopag,Low,No Effect,1,31566757,0
+Concha Arcae Preparata,Alendronic Acid,High,Negative,1,7554702,2
+Concha Arcae Preparata,Lusutrombopag,Low,No Effect,1,31566757,0
+Concha Cyclinae,Alendronic Acid,High,Negative,1,7554702,2
+Concha Cyclinae,Lusutrombopag,Low,No Effect,1,31566757,0
+Concha Haliotidis,Alendronic Acid,High,Negative,1,7554702,2
+Concha Haliotidis,Ibuprofen,Low,No Effect,1,30897305,0
+Concha Haliotidis,Lusutrombopag,Low,No Effect,1,31566757,0
+Concha Haliotidis,Potassium,Medium,Possible,1,3297472,1
+Concha Haliotidis,Sodium Chloride,Medium,Possible,1,3297472,1
+Concha Meretricis seu Cyclinae,Alendronic Acid,High,Negative,1,7554702,2
+Concha Meretricis seu Cyclinae,Lusutrombopag,Low,No Effect,1,31566757,0
+Concretio Silicea Bambusae,Midazolam,Medium,Possible,1,21943317,1
+Concretio Silicea Bambusae,Talinolol,Medium,Possible,1,21943317,1
+Conyza blinii,Midazolam,High,Negative,1,21680781,2
+Coptis chinensis var. brevisepala,Caffeine,Low,No Effect,1,21870106,0
+Coptis chinensis var. brevisepala,Dextromethorphan,High,Negative,1,21870106,2
+Coptis chinensis var. brevisepala,Losartan,High,Negative,1,21870106,2
+Coptis chinensis var. brevisepala,Omeprazole,Low,No Effect,1,21870106,0
+Coptis chinensis var. brevisepala,Rosuvastatin,Medium,Possible,1,32292349,1
+Coptis chinensis var. brevisepala,Tacrolimus,High,Harmful,1,23765408,2
+Coptis teetoides [Syn. Coptis teeta],Caffeine,Low,No Effect,1,21870106,0
+Coptis teetoides [Syn. Coptis teeta],Dextromethorphan,High,Negative,1,21870106,2
+Coptis teetoides [Syn. Coptis teeta],Losartan,High,Negative,1,21870106,2
+Coptis teetoides [Syn. Coptis teeta],Omeprazole,Low,No Effect,1,21870106,0
+Coptis teetoides [Syn. Coptis teeta],Rosuvastatin,Medium,Possible,1,32292349,1
+Coptis teetoides [Syn. Coptis teeta],Tacrolimus,High,Harmful,1,23765408,2
+Cordyceps,Aspirin,Medium,Possible,1,32325408,1
+Cordyceps,Caffeine,Low,No Effect,1,21870106,0
+Cordyceps,Dextromethorphan,High,Negative,1,21870106,2
+Cordyceps,Ibuprofen,Low,No Effect,1,30897305,0
+Cordyceps,Losartan,High,Negative,1,21870106,2
+Cordyceps,Omeprazole,Low,No Effect,1,21870106,0
+Cordyceps,Potassium,Medium,Possible,1,3297472,1
+Cordyceps,Rosuvastatin,Medium,Possible,1,32292349,1
+Cordyceps,Sodium Chloride,Medium,Possible,1,3297472,1
+Cordyceps,Tacrolimus,High,Harmful,1,23765408,2
+Coriandri Sativi Herba,Midazolam,High,Negative,1,21680781,2
+Cornu Cervi,Alendronic Acid,High,Negative,1,7554702,2
+Cornu Cervi,Lusutrombopag,Low,No Effect,1,31566757,0
+Cortex Eucommiae,Caffeine,Low,No Effect,1,21870106,0
+Cortex Eucommiae,Clevidipine,High,Negative,1,28892755,2
+Cortex Eucommiae,Dextromethorphan,High,Negative,1,21870106,2
+Cortex Eucommiae,Losartan,High,Negative,1,21870106,2
+Cortex Eucommiae,Midazolam,High,"Negative, Possible",2,"21680781, 21943317",2
+Cortex Eucommiae,Omeprazole,Low,No Effect,1,21870106,0
+Cortex Eucommiae,Rosuvastatin,Medium,Possible,1,32292349,1
+Cortex Eucommiae,Tacrolimus,High,Harmful,1,23765408,2
+Cortex Eucommiae,Talinolol,Medium,Possible,1,21943317,1
+Cortex Illicii,Caffeine,Low,No Effect,1,21870106,0
+Cortex Illicii,Dextromethorphan,High,Negative,1,21870106,2
+Cortex Illicii,Losartan,High,Negative,1,21870106,2
+Cortex Illicii,Omeprazole,Low,No Effect,1,21870106,0
+Cortex Illicii,Rosuvastatin,Medium,Possible,1,32292349,1
+Cortex Illicii,Tacrolimus,High,Harmful,1,23765408,2
+Cortex Lycii Radicis,Midazolam,High,Negative,1,20393696,2
+Cortex Lycii Radicis,Tacrolimus,High,Harmful,1,32930420,2
+Cortex Lycii Radicis,Talinolol,Low,No Effect,1,22983284,0
+Cortex Magnoliae officilis,Clevidipine,High,Negative,1,28892755,2
+Cortex Moutan,Midazolam,High,Negative,1,21680781,2
+Cortex Phellodendri,Caffeine,Low,No Effect,1,21870106,0
+Cortex Phellodendri,Dextromethorphan,High,Negative,1,21870106,2
+Cortex Phellodendri,Losartan,High,Negative,1,21870106,2
+Cortex Phellodendri,Omeprazole,Low,No Effect,1,21870106,0
+Cortex Phellodendri,Rosuvastatin,Medium,Possible,1,32292349,1
+Cortex Phellodendri,Tacrolimus,High,Harmful,1,23765408,2
+Cortex Tooe Sinensis,Midazolam,High,Negative,1,21680781,2
+Cortex erythrie,Midazolam,Medium,Possible,1,21943317,1
+Cortex erythrie,Talinolol,Medium,Possible,1,21943317,1
+Corydalis ledebouriana,Caffeine,Low,No Effect,1,21870106,0
+Corydalis ledebouriana,Dextromethorphan,High,Negative,1,21870106,2
+Corydalis ledebouriana,Losartan,High,Negative,1,21870106,2
+Corydalis ledebouriana,Omeprazole,Low,No Effect,1,21870106,0
+Corydalis ledebouriana,Rosuvastatin,Medium,Possible,1,32292349,1
+Corydalis ledebouriana,Tacrolimus,High,Harmful,1,23765408,2
+Corydalis longicalcarata,Caffeine,Low,No Effect,1,21870106,0
+Corydalis longicalcarata,Dextromethorphan,High,Negative,1,21870106,2
+Corydalis longicalcarata,Losartan,High,Negative,1,21870106,2
+Corydalis longicalcarata,Omeprazole,Low,No Effect,1,21870106,0
+Corydalis longicalcarata,Rosuvastatin,Medium,Possible,1,32292349,1
+Corydalis longicalcarata,Tacrolimus,High,Harmful,1,23765408,2
+Corydalis remota [Syn. Corydalis bulbosa var. typica ],Caffeine,Low,No Effect,1,21870106,0
+Corydalis remota [Syn. Corydalis bulbosa var. typica ],Dextromethorphan,High,Negative,1,21870106,2
+Corydalis remota [Syn. Corydalis bulbosa var. typica ],Losartan,High,Negative,1,21870106,2
+Corydalis remota [Syn. Corydalis bulbosa var. typica ],Omeprazole,Low,No Effect,1,21870106,0
+Corydalis remota [Syn. Corydalis bulbosa var. typica ],Rosuvastatin,Medium,Possible,1,32292349,1
+Corydalis remota [Syn. Corydalis bulbosa var. typica ],Tacrolimus,High,Harmful,1,23765408,2
+Corydalis rosea,Clevidipine,High,Negative,1,28892755,2
+Craibiodendron yunnanese,Midazolam,High,Negative,1,21680781,2
+Crassostrea gigas,Alendronic Acid,High,Negative,1,7554702,2
+Crassostrea gigas,Lusutrombopag,Low,No Effect,1,31566757,0
+Crataegi Folium,Midazolam,High,Negative,1,21680781,2
+Crataegus cuneata,Clevidipine,High,Negative,1,28892755,2
+Crataegus oxyacantha,Digoxin,Low,No Effect,1,12817526,0
+Crataegus pinnatifida,Clevidipine,High,Negative,1,28892755,2
+Croton tiglium L.,Aspirin,Medium,Possible,1,32325408,1
+Cryptotaenia japonica,Doxorubicin,Medium,Possible,1,25947916,1
+Cryptotaenia japonica,Tacrolimus,High,Harmful,1,32930420,2
+Curcuma zedoaria Rosc,Acetaminophen,Low,No Effect,1,18480186,0
+Curcuma zedoaria Rosc,Everolimus,High,Harmful,1,29112694,2
+Curcuma zedoaria Rosc,Flurbiprofen,Low,No Effect,1,18480186,0
+Curcuma zedoaria Rosc,Midazolam,Low,No Effect,1,18480186,0
+Curcuma zedoaria Rosc,Phenylephrine,Medium,Possible,1,30368855,1
+Curcuma zedoaria Rosc,Talinolol,High,Negative,1,17468862,2
+Cuscuta australis,Midazolam,High,Negative,1,21680781,2
+Cuscuta japonica,Midazolam,High,Negative,1,21680781,2
+Cuscuta lupuliformis,Midazolam,High,Negative,1,21680781,2
+Cynanchum chinense,Tacrolimus,High,Harmful,1,32930420,2
+Cynanchum thesioides,Midazolam,High,Negative,1,21680781,2
+DANG GUI,Warfarin,High,Harmful,1,10417036,2
+Daphne genkwa,Tacrolimus,High,Harmful,1,32930420,2
+Derris scandens,Midazolam,Medium,Possible,1,21943317,1
+Derris scandens,Talinolol,Medium,Possible,1,21943317,1
+Dictamni Cortex,Midazolam,High,Negative,1,21680781,2
+Diospyros kaki,Midazolam,High,"Negative, Possible",2,"21680781, 21943317",2
+Diospyros kaki,Talinolol,Medium,Possible,1,21943317,1
+Dysosma veitchii,Midazolam,High,Negative,1,21680781,2
+Dysosma versipellis [Syn. Podophyllum versipelle ],Clevidipine,High,Negative,1,28892755,2
+Dysosma versipellis [Syn. Podophyllum versipelle ],Midazolam,High,Negative,1,21680781,2
+Dysosmae Verspiellis Rhixoma Et Radix,Clevidipine,High,Negative,1,28892755,2
+Dysosmae Verspiellis Rhixoma Et Radix,Midazolam,High,Negative,1,21680781,2
+Echinacea,Caffeine,Medium,Possible,2,"14749695, 15536458",1
+Echinacea,Chlorzoxazone,Medium,Possible,1,15536458,1
+Echinacea,Darunavir,Low,No Effect,1,21078942,0
+Echinacea,Debrisoquin,Medium,"No Effect, Possible",2,"15536458, 18214849",1
+Echinacea,Dextromethorphan,Low,No Effect,1,14749695,0
+Echinacea,Docetaxel,Low,No Effect,1,23701184,0
+Echinacea,Etravirine,Low,No Effect,1,22869560,0
+Echinacea,Fexofenadine,Low,No Effect,1,20653355,0
+Echinacea,Lopinavir,Low,No Effect,1,20653355,0
+Echinacea,Midazolam,High,"Negative, Possible",3,"14749695, 15536458, 20653355",2
+Echinacea,Ritonavir,Low,No Effect,2,"20653355, 21078942",0
+Echinacea,Tolbutamide,Medium,Possible,1,14749695,1
+Echinacea,Warfarin,Low,No Effect,1,20573086,0
+Eleutherococcus senticosus,Midazolam,High,Negative,1,21680781,2
+Epimedium sagittatum,Midazolam,High,Negative,1,21680781,2
+Equisetum Arvense,Efavirenz,High,Harmful,2,27903949,2
+Equisetum Arvense,Emtricitabine,High,Harmful,1,27903949,2
+Equisetum Arvense,Lamivudine,High,Harmful,1,27903949,2
+Equisetum Arvense,Tenofovir,High,Harmful,1,27903949,2
+Equisetum Arvense,Zidovudine,High,Harmful,1,27903949,2
+Erigeron multiradiatus,Doxorubicin,Medium,Possible,1,25947916,1
+Erigeron multiradiatus,Midazolam,High,Negative,1,21680781,2
+Erigeron multiradiatus,Tacrolimus,High,Harmful,1,32930420,2
+Eriocheir Sinensis seu Poramon,Alendronic Acid,High,Negative,1,7554702,2
+Eriocheir Sinensis seu Poramon,Lusutrombopag,Low,No Effect,1,31566757,0
+Erodium stephanianum,Midazolam,High,Negative,1,21680781,2
+Erythrina arborescens,Midazolam,Medium,Possible,1,21943317,1
+Erythrina arborescens,Talinolol,Medium,Possible,1,21943317,1
+Erythrina latissima,Midazolam,Medium,Possible,1,21943317,1
+Erythrina latissima,Talinolol,Medium,Possible,1,21943317,1
+Eupatorium lindleyanum,Midazolam,High,Negative,1,21680781,2
+Eurycoma Longifolia,Propranolol,High,Negative,1,21054461,2
+Exocarpium Citri grandis,Fexofenadine,High,Negative,1,17301733,2
+Exocarpium Citri grandis,Nisoldipine,Low,No Effect,1,8275614,0
+Exocarpium Citri grandis,Tacrolimus,High,Harmful,1,32930420,2
+Fagopyrum tataricum,Clevidipine,High,Negative,1,28892755,2
+Fagopyrum tataricum,Doxorubicin,Medium,Possible,1,25947916,1
+Fagopyrum tataricum,Midazolam,High,Negative,1,21680781,2
+Firmiana simplex,Ibuprofen,Low,No Effect,2,30897305,0
+Firmiana simplex,Potassium,Medium,Possible,2,3297472,1
+Firmiana simplex,Sodium Chloride,Medium,Possible,2,3297472,1
+Flemingia philippinensis [Syn. Moghania philippinensis],Midazolam,High,"Negative, Possible",2,"21680781, 21943317",2
+Flemingia philippinensis [Syn. Moghania philippinensis],Talinolol,Medium,Possible,1,21943317,1
+Flemingia strobilifera,Fexofenadine,High,Negative,1,17301733,2
+Flemingia strobilifera,Nisoldipine,Low,No Effect,1,8275614,0
+Flos Buddlejae,Doxorubicin,Medium,Possible,1,25947916,1
+Flos Buddlejae,Tacrolimus,High,Harmful,1,32930420,2
+Flos Campsis,Tacrolimus,High,Harmful,1,32930420,2
+Flos Carthami,Clevidipine,High,Negative,2,28892755,2
+Flos Carthami,Cyclosporine,Low,No Effect,1,31156436,0
+Flos Carthami,Doxorubicin,Medium,Possible,1,25947916,1
+Flos Carthami,Midazolam,High,Negative,1,21680781,2
+Flos Carthami,Tacrolimus,High,Harmful,1,32930420,2
+Flos Caryophylli,Midazolam,High,Negative,1,21680781,2
+Flos Celosiae cristatae,Doxorubicin,Medium,Possible,1,25947916,1
+Flos Celosiae cristatae,Tacrolimus,High,Harmful,1,32930420,2
+Flos Chrysanthemi,Doxorubicin,Medium,Possible,2,25947916,1
+Flos Chrysanthemi,Midazolam,High,Negative,1,21680781,2
+Flos Chrysanthemi,Tacrolimus,High,Harmful,2,32930420,2
+Flos Chrysanthemi Indici,Doxorubicin,Medium,Possible,1,25947916,1
+Flos Chrysanthemi Indici,Midazolam,High,Negative,1,21680781,2
+Flos Chrysanthemi Indici,Tacrolimus,High,Harmful,1,32930420,2
+Flos Daturae,Midazolam,High,Negative,1,21680781,2
+Flos Dolichoris,Doxorubicin,Medium,Possible,1,25947916,1
+Flos Dolichoris,Tacrolimus,High,Harmful,1,32930420,2
+Flos Eriocauli,Doxorubicin,Medium,Possible,1,25947916,1
+Flos Eriocauli,Midazolam,High,Negative,1,21680781,2
+Flos Firmianae plantanifoliae,Ibuprofen,Low,No Effect,1,30897305,0
+Flos Firmianae plantanifoliae,Potassium,Medium,Possible,1,3297472,1
+Flos Firmianae plantanifoliae,Sodium Chloride,Medium,Possible,1,3297472,1
+Flos Firmianae plantanifoliae,Tacrolimus,High,Harmful,1,32930420,2
+Flos Genkwa,Doxorubicin,Medium,Possible,1,25947916,1
+Flos Genkwa,Midazolam,High,"Negative, Possible",2,"21680781, 21943317",2
+Flos Genkwa,Tacrolimus,High,Harmful,1,32930420,2
+Flos Genkwa,Talinolol,Medium,Possible,1,21943317,1
+Flos Gossampini,Doxorubicin,Medium,Possible,1,25947916,1
+Flos Gossampini,Midazolam,High,Negative,1,21680781,2
+Flos Gossampini,Tacrolimus,High,Harmful,1,32930420,2
+Flos Inulae,Doxorubicin,Medium,Possible,1,25947916,1
+Flos Inulae,Midazolam,High,Negative,1,21680781,2
+Flos Lonicerae,Clevidipine,High,Negative,1,28892755,2
+Flos Lonicerae,Doxorubicin,Medium,Possible,2,25947916,1
+Flos Lonicerae,Midazolam,High,Negative,1,21680781,2
+Flos Lonicerae,Tacrolimus,High,Harmful,1,32930420,2
+Flos Mume,Midazolam,Medium,Possible,1,21943317,1
+Flos Mume,Talinolol,Medium,Possible,1,21943317,1
+Flos Rhododendri Mollis,Midazolam,High,Negative,1,21680781,2
+Flos Rosae Rugosae,Midazolam,High,Negative,1,21680781,2
+Flos Rosae Rugosae,Tacrolimus,High,Harmful,1,32930420,2
+Flos Rosae chinensis,Aluminum Hydroxide,Medium,Possible,1,6834247,1
+Flos Rosae chinensis,Midazolam,High,Negative,1,21680781,2
+Flos Trollii chinensis,Aspirin,Medium,Possible,1,32325408,1
+Flos Trollii chinensis,Midazolam,High,Negative,1,21680781,2
+Folium Acanthopanacis gracilistyti,Midazolam,High,Negative,1,21680781,2
+Folium Artemisiae Argyi,Clevidipine,High,Negative,1,28892755,2
+Folium Artemisiae Argyi,Doxorubicin,Medium,Possible,1,25947916,1
+Folium Artemisiae Argyi,Midazolam,High,Negative,1,21680781,2
+Folium Artemisiae Argyi,Tacrolimus,High,Harmful,1,32930420,2
+Folium Eriobotryae,Buspirone,Low,No Effect,1,17164372,0
+Folium Eriobotryae,Caffeine,Low,No Effect,1,17164372,0
+Folium Eriobotryae,Dextromethorphan,Low,No Effect,1,17164372,0
+Folium Eriobotryae,Losartan,Low,No Effect,1,17164372,0
+Folium Eriobotryae,Midazolam,High,Negative,1,21680781,2
+Folium Eriobotryae,Nadolol,High,Negative,2,29480324,2
+Folium Eriobotryae,Rosuvastatin,Medium,Possible,4,"28533679, 32407265",1
+Folium Ginseng,Aluminum Hydroxide,Medium,Possible,1,6834247,1
+Folium Ginseng,Midazolam,High,Negative,1,21680781,2
+Folium Ilicis Cornutae,Ibuprofen,Low,No Effect,1,30897305,0
+Folium Ilicis Cornutae,Midazolam,High,Negative,1,21680781,2
+Folium Ilicis Cornutae,Potassium,Medium,Possible,1,3297472,1
+Folium Ilicis Cornutae,Sodium Chloride,Medium,Possible,1,3297472,1
+Folium Llicis Chinensis,Midazolam,High,Negative,1,21680781,2
+Folium Llicis Chinensis,Tacrolimus,High,Harmful,1,32930420,2
+Folium Mori,Midazolam,High,Negative,1,21680781,2
+Folium Nelumbinis,Doxorubicin,Medium,Possible,1,25947916,1
+Folium Nelumbinis,Midazolam,High,Negative,1,21680781,2
+Folium Pini,Caffeine,Low,No Effect,2,"21870106, 25028567",0
+Folium Pini,Dextromethorphan,High,"Negative, No Effect",2,"21870106, 25028567",2
+Folium Pini,Doxorubicin,Medium,Possible,1,25947916,1
+Folium Pini,Losartan,High,Negative,1,21870106,2
+Folium Pini,Midazolam,High,"Negative, No Effect",2,"21680781, 25028567",2
+Folium Pini,Nifedipine,Low,No Effect,1,17968815,0
+Folium Pini,Omeprazole,Low,No Effect,1,21870106,0
+Folium Pini,Rosuvastatin,Medium,Possible,1,32292349,1
+Folium Pini,Tacrolimus,High,Harmful,1,23765408,2
+Folium Pini,Tolbutamide,Low,No Effect,1,25028567,0
+Folium Rhododendri Daurici,Midazolam,High,Negative,1,21680781,2
+Folium Sabinae chinensis,Tacrolimus,High,Harmful,1,32930420,2
+Folium Viticis Negundo,Phenylephrine,Medium,Possible,1,30368855,1
+Folium Wrightiae Laevis,Midazolam,High,Negative,1,21680781,2
+Fraxinus ornus,Midazolam,High,Negative,1,21680781,2
+Fraxinus ornus,Tacrolimus,High,Harmful,1,32930420,2
+Fructus Amomi,Aspirin,Medium,Possible,1,32325408,1
+Fructus Amomi,Clevidipine,High,Negative,1,28892755,2
+Fructus Amomi,Midazolam,High,Negative,1,21680781,2
+Fructus Amomi Rotundus,Doxorubicin,Medium,Possible,1,25947916,1
+Fructus Amomi Rotundus,Midazolam,High,Negative,1,21680781,2
+Fructus Anisi Stellati,Doxorubicin,Medium,Possible,1,25947916,1
+Fructus Anisi Stellati,Midazolam,High,Negative,1,21680781,2
+Fructus Anisi Stellati,Phenytoin,High,Harmful,1,55569,2
+Fructus Aurantii,Fexofenadine,High,Negative,2,17301733,2
+Fructus Aurantii,Nisoldipine,Low,No Effect,2,8275614,0
+Fructus Aurantii Immaturus,Doxorubicin,Medium,Possible,1,25947916,1
+Fructus Aurantii Immaturus,Fexofenadine,High,Negative,1,17301733,2
+Fructus Aurantii Immaturus,Nisoldipine,Low,No Effect,1,8275614,0
+Fructus Aurantii Immaturus,Tacrolimus,High,Harmful,1,32930420,2
+Fructus Aurantii Preparata,Fexofenadine,High,Negative,1,17301733,2
+Fructus Aurantii Preparata,Nisoldipine,Low,No Effect,1,8275614,0
+Fructus Bruceae,Doxorubicin,Medium,Possible,1,25947916,1
+Fructus Bruceae,Tacrolimus,High,Harmful,1,32930420,2
+Fructus Carpesii,Doxorubicin,Medium,Possible,1,25947916,1
+Fructus Caryophylli,Midazolam,High,Negative,1,21680781,2
+Fructus Chaenomelis,Midazolam,High,Negative,1,21680781,2
+Fructus Choerospondiatis,Midazolam,High,Negative,1,21680781,2
+Fructus Corni,Acetaminophen,Low,No Effect,1,18480186,0
+Fructus Corni,Clevidipine,High,Negative,1,28892755,2
+Fructus Corni,Everolimus,High,Harmful,1,29112694,2
+Fructus Corni,Flurbiprofen,Low,No Effect,1,18480186,0
+Fructus Corni,Midazolam,High,"Negative, No Effect",2,"18480186, 21680781",2
+Fructus Corni,Phenylephrine,Medium,Possible,1,30368855,1
+Fructus Corni,Talinolol,High,Negative,1,17468862,2
+Fructus Evodiae,Caffeine,Low,No Effect,1,21870106,0
+Fructus Evodiae,Clevidipine,High,Negative,1,28892755,2
+Fructus Evodiae,Dextromethorphan,High,Negative,1,21870106,2
+Fructus Evodiae,Ibuprofen,Low,No Effect,1,30897305,0
+Fructus Evodiae,Losartan,High,Negative,1,21870106,2
+Fructus Evodiae,Midazolam,High,Negative,2,21680781,2
+Fructus Evodiae,Omeprazole,Low,No Effect,1,21870106,0
+Fructus Evodiae,Potassium,Medium,Possible,1,3297472,1
+Fructus Evodiae,Rosuvastatin,Medium,Possible,1,32292349,1
+Fructus Evodiae,Sodium Chloride,Medium,Possible,1,3297472,1
+Fructus Evodiae,Tacrolimus,High,Harmful,1,23765408,2
+Fructus Evodiae,Venlafaxine,Medium,Possible,1,35132786,1
+Fructus Forsythiae,Clevidipine,High,Negative,1,28892755,2
+Fructus Forsythiae,Doxorubicin,Medium,Possible,1,25947916,1
+Fructus Forsythiae,Midazolam,High,Negative,1,21680781,2
+Fructus Gardeniae,Clevidipine,High,Negative,1,28892755,2
+Fructus Gardeniae,Midazolam,High,"Negative, Possible",2,"21680781, 21943317",2
+Fructus Gardeniae,Tacrolimus,High,Harmful,1,32930420,2
+Fructus Gardeniae,Talinolol,Medium,Possible,1,21943317,1
+Fructus Hordei Germitus,Doxorubicin,Medium,Possible,1,25947916,1
+Fructus Hordei Germitus,Phenytoin,High,Harmful,1,55569,2
+Fructus Kochiae,Midazolam,High,Negative,1,21680781,2
+Fructus Ligustri lucidi,Clevidipine,High,Negative,1,28892755,2
+Fructus Ligustri lucidi,Doxorubicin,Medium,Possible,1,25947916,1
+Fructus Ligustri lucidi,Midazolam,High,Negative,2,21680781,2
+Fructus Ligustri lucidi,Tacrolimus,High,Harmful,1,32930420,2
+Fructus Liquidambaris,Fexofenadine,High,Negative,1,17301733,2
+Fructus Liquidambaris,Nisoldipine,Low,No Effect,1,8275614,0
+Fructus Lycii,Aspirin,Medium,Possible,1,32325408,1
+Fructus Lycii,Caffeine,Low,No Effect,1,21870106,0
+Fructus Lycii,Clevidipine,High,Negative,1,28892755,2
+Fructus Lycii,Dextromethorphan,High,Negative,1,21870106,2
+Fructus Lycii,Losartan,High,Negative,1,21870106,2
+Fructus Lycii,Midazolam,High,Negative,1,21680781,2
+Fructus Lycii,Omeprazole,Low,No Effect,1,21870106,0
+Fructus Lycii,Rosuvastatin,Medium,Possible,1,32292349,1
+Fructus Lycii,Tacrolimus,High,Harmful,1,23765408,2
+Fructus Malvae,Doxorubicin,Medium,Possible,1,25947916,1
+Fructus Malvae,Midazolam,High,Negative,1,21680781,2
+Fructus Meliae Toosendan,Caffeine,Low,No Effect,1,21870106,0
+Fructus Meliae Toosendan,Dextromethorphan,High,Negative,1,21870106,2
+Fructus Meliae Toosendan,Losartan,High,Negative,1,21870106,2
+Fructus Meliae Toosendan,Midazolam,High,Negative,1,21680781,2
+Fructus Meliae Toosendan,Omeprazole,Low,No Effect,1,21870106,0
+Fructus Meliae Toosendan,Rosuvastatin,Medium,Possible,1,32292349,1
+Fructus Meliae Toosendan,Tacrolimus,High,Harmful,1,23765408,2
+Fructus Momordicae,Acetaminophen,Low,No Effect,1,18480186,0
+Fructus Momordicae,Everolimus,High,Harmful,1,29112694,2
+Fructus Momordicae,Flurbiprofen,Low,No Effect,1,18480186,0
+Fructus Momordicae,Midazolam,Low,No Effect,1,18480186,0
+Fructus Momordicae,Phenylephrine,Medium,Possible,1,30368855,1
+Fructus Momordicae,Talinolol,High,Negative,1,17468862,2
+Fructus Mori,Aspirin,Medium,Possible,1,32325408,1
+Fructus Mori,Clevidipine,High,Negative,1,28892755,2
+Fructus Mori,Midazolam,High,Negative,1,21680781,2
+Fructus Mume,Midazolam,High,"Negative, Possible",2,"21680781, 21943317",2
+Fructus Mume,Talinolol,Medium,Possible,1,21943317,1
+Fructus Paulowniae fortunei,Doxorubicin,Medium,Possible,1,25947916,1
+Fructus Paulowniae fortunei,Midazolam,High,Negative,1,21680781,2
+Fructus Paulowniae fortunei,Tacrolimus,High,Harmful,1,32930420,2
+Fructus Perillae,Doxorubicin,Medium,Possible,1,25947916,1
+Fructus Perillae,Tacrolimus,High,Harmful,1,32930420,2
+Fructus Phyllanthi,Buspirone,Low,No Effect,1,17164372,0
+Fructus Phyllanthi,Caffeine,Low,No Effect,1,17164372,0
+Fructus Phyllanthi,Dextromethorphan,Low,No Effect,1,17164372,0
+Fructus Phyllanthi,Doxorubicin,Medium,Possible,1,25947916,1
+Fructus Phyllanthi,Losartan,Low,No Effect,1,17164372,0
+Fructus Phyllanthi,Midazolam,High,Negative,1,21680781,2
+Fructus Phyllanthi,Nadolol,High,Negative,2,29480324,2
+Fructus Phyllanthi,Rosuvastatin,Medium,Possible,4,"28533679, 32407265",1
+Fructus Piperis,Acetaminophen,Low,No Effect,1,18480186,0
+Fructus Piperis,Aspirin,Medium,Possible,1,32325408,1
+Fructus Piperis,Carbamazepine,Medium,Possible,1,19283724,1
+Fructus Piperis,Flurbiprofen,Low,No Effect,1,18480186,0
+Fructus Piperis,Midazolam,Medium,"No Effect, Possible",2,"18480186, 24398010",1
+Fructus Piperis,Phenytoin,Medium,Possible,2,16767797,1
+Fructus Polygoni Orientalis,Midazolam,High,Negative,1,21680781,2
+Fructus Rosae laevigatae,Midazolam,High,Negative,1,21680781,2
+Fructus Rosae laevigatae,Tacrolimus,High,Harmful,1,32930420,2
+Fructus Viticis,Doxorubicin,Medium,Possible,1,25947916,1
+Fructus Viticis,Midazolam,High,Negative,1,21680781,2
+Fructus Xanthii sibirici,Midazolam,High,Negative,1,21680781,2
+Fructus lycii,Aspirin,Medium,Possible,1,32325408,1
+Fructus lycii,Caffeine,Low,No Effect,1,21870106,0
+Fructus lycii,Clevidipine,High,Negative,1,28892755,2
+Fructus lycii,Dextromethorphan,High,Negative,1,21870106,2
+Fructus lycii,Losartan,High,Negative,1,21870106,2
+Fructus lycii,Midazolam,High,Negative,1,21680781,2
+Fructus lycii,Omeprazole,Low,No Effect,1,21870106,0
+Fructus lycii,Tacrolimus,High,Harmful,1,23765408,2
+Fructus tsaoko,Acetaminophen,Low,No Effect,1,18480186,0
+Fructus tsaoko,Everolimus,High,Harmful,1,29112694,2
+Fructus tsaoko,Flurbiprofen,Low,No Effect,1,18480186,0
+Fructus tsaoko,Midazolam,High,"Negative, No Effect",2,"18480186, 21680781",2
+Fructus tsaoko,Phenylephrine,Medium,Possible,1,30368855,1
+Fructus tsaoko,Talinolol,High,Negative,1,17468862,2
+Ganoderma Lucidum seu Japonicum,Aspirin,Medium,Possible,1,32325408,1
+Ganoderma Lucidum seu Japonicum,Midazolam,Medium,Possible,1,21943317,1
+Ganoderma Lucidum seu Japonicum,Talinolol,Medium,Possible,1,21943317,1
+Garcinia dulcis,Tacrolimus,High,Harmful,1,32930420,2
+Garcinia kola,Quinine,High,Negative,1,25328082,2
+Genista tinctoria,Midazolam,Medium,Possible,1,21943317,1
+Genista tinctoria,Talinolol,Medium,Possible,1,21943317,1
+Gentiana rhodantha,Midazolam,High,Negative,1,21680781,2
+Gentianopsis paludosa,Doxorubicin,Medium,Possible,1,25947916,1
+Ginkgo,Alprazolam,Low,No Effect,1,14624188,0
+Ginkgo,Aspirin,High,Harmful,1,9091822,2
+Ginkgo,Cilostazol,Low,No Effect,1,17010102,0
+Ginkgo,Clopidogrel,Low,No Effect,1,17010102,0
+Ginkgo,Dextromethorphan,Low,No Effect,1,14624188,0
+Ginkgo,Diclofenac,Low,No Effect,1,16428919,0
+Ginkgo,Efavirenz,High,Harmful,1,19451798,2
+Ginkgo,Fluoxetine,Low,No Effect,1,12404672,0
+Ginkgo,Flurbiprofen,Low,No Effect,1,16432273,0
+Ginkgo,Haloperidol,Medium,Possible,2,"11775047, 12180457",1
+Ginkgo,Lopinavir,Low,No Effect,1,18205997,0
+Ginkgo,Midazolam,High,Negative,1,18205997,2
+Ginkgo,Nifedipine,Medium,Possible,1,15577221,1
+Ginkgo,Omeprazole,High,Negative,1,15608563,2
+Ginkgo,Paroxetine,Low,No Effect,1,12404672,0
+Ginkgo,Ritonavir,Low,No Effect,1,18205997,0
+Ginkgo,Sodium Aescinate,High,Harmful,1,28144968,2
+Ginkgo,Tolbutamide,High,"Negative, No Effect",2,"16428919, 17050793",2
+Ginkgo,Valproic Acid,High,Harmful,3,"11742783, 16419414",2
+Ginkgo,Warfarin,High,"Harmful, No Effect",2,"17050802, 9633781",2
+Ginkgo Biloba,Antipyrine,Low,No Effect,1,2744909,0
+Ginkgo Biloba,Atorvastatin,Low,No Effect,1,22381135,0
+Ginkgo Biloba,Bupropion,Low,No Effect,1,19694739,0
+Ginkgo Biloba,Cilostazol,Low,No Effect,1,24001154,0
+Ginkgo Biloba,Diazepam,Low,No Effect,1,20186406,0
+Ginkgo Biloba,Fluorouracil,Medium,Possible,1,10635450,1
+Ginkgo Biloba,Ibuprofen,High,Harmful,1,12818420,2
+Ginkgo Biloba,Metformin,Medium,"No Effect, Possible",2,"16698134, 30034238",1
+Ginkgo Biloba,Midazolam,Low,No Effect,1,28105513,0
+Ginkgo Biloba,Phenytoin,High,Harmful,1,16419414,2
+Ginkgo Biloba,Platelet Activating Factor,High,Negative,1,2880069,2
+Ginkgo Biloba,Raltegravir,Low,No Effect,1,22802250,0
+Ginkgo Biloba,Simvastatin,High,Negative,1,23451885,2
+Ginkgo Biloba,Ticlopidine,Low,No Effect,1,20206795,0
+Ginkgo Biloba,Trazodone,High,Harmful,1,10836866,2
+Ginkgo Biloba,Warfarin,Low,No Effect,2,"12772396, 15801937",0
+Ginkgo biloba,Efavirenz,High,Harmful,1,22323244,2
+Ginkgo biloba,Midazolam,High,Negative,1,21680781,2
+Ginseng,Alprazolam,Low,No Effect,1,12695337,0
+Ginseng,Caffeine,Medium,Possible,1,25665208,1
+Ginseng,Dextromethorphan,Low,No Effect,1,12695337,0
+Ginseng,Digoxin,High,"Harmful, Possible",2,"7549378, 8705908",2
+Ginseng,Furosemide,High,Harmful,1,8773630,2
+Ginseng,Insulin Human,Medium,Possible,1,8721940,1
+Ginseng,Lamotrigine,High,Harmful,2,25756365,2
+Ginseng,Warfarin,High,"Harmful, No Effect, Possible",8,"12711887, 15089812, 17050802, 18637764, 20635460, 23277336, 9075501",2
+Ginseng,Yohimbine,High,Harmful,1,24689505,2
+Gleditsiae Fructus,Midazolam,High,Negative,1,21680781,2
+Glycine max,Midazolam,Medium,Possible,2,21943317,1
+Glycine max,Talinolol,Medium,Possible,2,21943317,1
+Glycyrrhiza glabra,Hydrocortisone,Medium,Possible,1,10675182,1
+Gnetum parvifolium,Phenylephrine,Medium,Possible,1,30368855,1
+Guarana,Metformin,High,Negative,1,2722133,2
+Gynostemmae Pentaphylli Herba,Clevidipine,High,Negative,1,28892755,2
+Gynostemmae Pentaphylli Herba,Midazolam,High,Negative,1,21680781,2
+Hamamelis virginiana,Buspirone,Low,No Effect,1,17164372,0
+Hamamelis virginiana,Caffeine,Low,No Effect,1,17164372,0
+Hamamelis virginiana,Dextromethorphan,Low,No Effect,1,17164372,0
+Hamamelis virginiana,Losartan,Low,No Effect,1,17164372,0
+Hamamelis virginiana,Nadolol,High,Negative,2,29480324,2
+Hamamelis virginiana,Rosuvastatin,Medium,Possible,4,"28533679, 32407265",1
+Harpagophytum procumbens,Warfarin,High,Harmful,1,10675182,2
+Hedysari Radix,Midazolam,High,Negative,1,21680781,2
+Herba Acalyphae,Caffeine,Low,No Effect,1,25028567,0
+Herba Acalyphae,Dextromethorphan,Low,No Effect,1,25028567,0
+Herba Acalyphae,Midazolam,High,"Negative, No Effect",2,"21680781, 25028567",2
+Herba Acalyphae,Nifedipine,Low,No Effect,1,17968815,0
+Herba Acalyphae,Tolbutamide,Low,No Effect,1,25028567,0
+Herba Agrimoniae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Agrimoniae,Midazolam,High,Negative,1,21680781,2
+Herba Agrimoniae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Artemisiae Annuae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Artemisiae Annuae,Midazolam,High,Negative,1,21680781,2
+Herba Artemisiae Annuae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Artemisiae Anomalae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Artemisiae Anomalae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Artemisiae Scopariae,Clevidipine,High,Negative,1,28892755,2
+Herba Artemisiae Scopariae,Midazolam,High,Negative,1,21680781,2
+Herba Bidentis,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Bidentis,Midazolam,High,Negative,1,21680781,2
+Herba Capsellae,Clonidine,High,Harmful,1,25336552,2
+Herba Centipedae,Fexofenadine,High,Negative,1,17301733,2
+Herba Centipedae,Midazolam,High,Negative,1,21680781,2
+Herba Centipedae,Nisoldipine,Low,No Effect,1,8275614,0
+Herba Centipedae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Cichorii,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Cichorii,Midazolam,High,Negative,1,21680781,2
+Herba Cichorii,Tacrolimus,High,Harmful,1,32930420,2
+Herba Cirsii,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Cirsii,Midazolam,High,Negative,1,21680781,2
+Herba Cirsii,Tacrolimus,High,Harmful,1,32930420,2
+Herba Cirsii Japonici;Radix Cirsii Japonici;Herba seu Radix Cirsii japonici,Midazolam,High,Negative,1,21680781,2
+Herba Cirsii Japonici;Radix Cirsii Japonici;Herba seu Radix Cirsii japonici,Tacrolimus,High,Harmful,1,32930420,2
+Herba Cistanches,Alendronic Acid,High,Negative,1,7554702,2
+Herba Cistanches,Lusutrombopag,Low,No Effect,1,31566757,0
+Herba Cistanches,Midazolam,High,"Negative, Possible",2,"21680781, 21943317",2
+Herba Cistanches,Talinolol,Medium,Possible,1,21943317,1
+Herba Clinopodii,Aspirin,Medium,Possible,1,32325408,1
+Herba Clinopodii,Tacrolimus,High,Harmful,1,32930420,2
+Herba Commelie,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Commelie,Midazolam,High,Negative,1,21680781,2
+Herba Commelie,Tacrolimus,High,Harmful,1,32930420,2
+Herba Ecliptae Prostratae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Ecliptae Prostratae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Elsholtziae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Elsholtziae,Midazolam,High,Negative,1,21680781,2
+Herba Elsholtziae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Ephedrae,Aspirin,Medium,Possible,1,32325408,1
+Herba Ephedrae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Ephedrae,Midazolam,High,Negative,1,21680781,2
+Herba Ephedrae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Equiseti Hiemalis,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Equiseti Hiemalis,Midazolam,High,Negative,1,21680781,2
+Herba Equiseti Hiemalis,Tacrolimus,High,Harmful,1,32930420,2
+Herba ErodiiHerba Geranii,Doxorubicin,Medium,Possible,1,25947916,1
+Herba ErodiiHerba Geranii,Midazolam,High,Negative,1,21680781,2
+Herba Eupatorii,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Euphorbiae humifusae,Midazolam,High,Negative,1,21680781,2
+Herba Glechomae Longitubae,Clevidipine,High,Negative,1,28892755,2
+Herba Glechomae Longitubae,Midazolam,High,Negative,1,21680781,2
+Herba Glechomae Longitubae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Hedyotis Diffusae,Clevidipine,High,Negative,1,28892755,2
+Herba Hedyotis Diffusae,Midazolam,High,Negative,1,21680781,2
+Herba Houttuyniae,Clevidipine,High,Negative,1,28892755,2
+Herba Houttuyniae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Houttuyniae,Midazolam,High,Negative,1,21680781,2
+Herba Houttuyniae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Humuli Scandentis,Aspirin,Medium,Possible,1,32325408,1
+Herba Humuli Scandentis,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Humuli Scandentis,Tacrolimus,High,Harmful,1,32930420,2
+Herba Hyperici Japonici,Midazolam,High,Negative,1,21680781,2
+Herba Inulae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Inulae,Midazolam,High,Negative,1,21680781,2
+Herba Inulae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Lagotidis,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Lagotidis,Midazolam,High,Negative,1,21680781,2
+Herba Lagotidis,Tacrolimus,High,Harmful,1,32930420,2
+Herba Leonuri,Clevidipine,High,Negative,1,28892755,2
+Herba Leonuri,Midazolam,High,Negative,1,21680781,2
+Herba Leonuri,Tacrolimus,High,Harmful,1,32930420,2
+Herba Lobeliae Chinensis,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Lobeliae Chinensis,Midazolam,High,Negative,1,21680781,2
+Herba Lobeliae Chinensis,Tacrolimus,High,Harmful,1,32930420,2
+Herba Nerviliae,Aluminum Hydroxide,Medium,Possible,1,6834247,1
+Herba Patriniae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Patriniae,Midazolam,High,Negative,1,21680781,2
+Herba Patriniae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Plantaginis,Clevidipine,High,Negative,1,28892755,2
+Herba Plantaginis,Cyclosporine,Low,No Effect,1,31156436,0
+Herba Plantaginis,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Polygoni Avicularis,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Polygoni Avicularis,Midazolam,High,Negative,1,21680781,2
+Herba Portulacae,Aspirin,Medium,Possible,1,32325408,1
+Herba Portulacae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Portulacae,Midazolam,High,Negative,1,21680781,2
+Herba Portulacae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Potentillae Chinensis,Midazolam,High,"Negative, Possible",2,"21680781, 21943317",2
+Herba Potentillae Chinensis,Tacrolimus,High,Harmful,1,32930420,2
+Herba Potentillae Chinensis,Talinolol,Medium,Possible,1,21943317,1
+Herba Potentillae Discoloris,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Potentillae Discoloris,Midazolam,High,Negative,1,21680781,2
+Herba Potentillae Discoloris,Tacrolimus,High,Harmful,1,32930420,2
+Herba Pteridis multifidae,Clevidipine,High,Negative,1,28892755,2
+Herba Pteridis multifidae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Pteridis multifidae,Midazolam,High,Negative,1,21680781,2
+Herba Pteridis multifidae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Sarcatidrae,Midazolam,High,Negative,1,21680781,2
+Herba Schizonepetae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Schizonepetae,Midazolam,High,Negative,1,21680781,2
+Herba Schizonepetae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Scutellariae barbatae,Clevidipine,High,Negative,1,28892755,2
+Herba Scutellariae barbatae,Cyclosporine,Low,No Effect,1,31156436,0
+Herba Scutellariae barbatae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Scutellariae barbatae,Midazolam,High,Negative,1,21680781,2
+Herba Scutellariae barbatae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Sedi sarmentosi,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Sedi sarmentosi,Midazolam,High,Negative,2,"20393696, 21680781",2
+Herba Sedi sarmentosi,Talinolol,Low,No Effect,1,22983284,0
+Herba Selaginellae,Midazolam,High,Negative,1,21680781,2
+Herba Selaginellae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Serissae,Alendronic Acid,High,Negative,1,7554702,2
+Herba Serissae,Lusutrombopag,Low,No Effect,1,31566757,0
+Herba Siphonostegiae Chinensis,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Siphonostegiae Chinensis,Tacrolimus,High,Harmful,1,32930420,2
+Herba Speranskiae tuberculatae,Midazolam,High,Negative,1,21680781,2
+Herba Spirodelae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Spirodelae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Taxilli,Midazolam,High,Negative,1,21680781,2
+Herba Verbae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba Verbae,Midazolam,High,Negative,1,21680781,2
+Herba Verbae,Tacrolimus,High,Harmful,1,32930420,2
+Herba Visci,Doxorubicin,Medium,Possible,1,25947916,1
+Herba bidentis tripartitae,Doxorubicin,Medium,Possible,1,25947916,1
+Herba hyperici,Midazolam,High,Negative,1,21680781,2
+Herbahypericiperforati,Caffeine,Low,No Effect,1,21870106,0
+Herbahypericiperforati,Clevidipine,High,Negative,1,28892755,2
+Herbahypericiperforati,Dextromethorphan,High,Negative,1,21870106,2
+Herbahypericiperforati,Losartan,High,Negative,1,21870106,2
+Herbahypericiperforati,Midazolam,High,Negative,1,21680781,2
+Herbahypericiperforati,Omeprazole,Low,No Effect,1,21870106,0
+Herbahypericiperforati,Rosuvastatin,Medium,Possible,1,32292349,1
+Herbahypericiperforati,Tacrolimus,High,Harmful,1,23765408,2
+Herha Ajugae Ciliatae,Doxorubicin,Medium,Possible,1,25947916,1
+Hibiscus Flower,Erlotinib,High,Harmful,2,28434514,2
+Hibiscus Flowers,Erlotinib,High,Harmful,2,28434514,2
+Hibiscus Sabdariffa,Diclofenac,Medium,Possible,1,17094172,1
+Hibiscus Sabdariffa,Simvastatin,High,Negative,1,28925046,2
+Hippophae rhamnoides,Midazolam,High,Negative,1,21680781,2
+Hippophae rhamnoides subsp. sinensis,Midazolam,High,Negative,1,21680781,2
+Hippophae rhamnoides subsp. turkestanica,Midazolam,High,Negative,1,21680781,2
+Humulus Lupulus,Alprazolam,Low,No Effect,1,32285669,0
+Humulus Lupulus,Caffeine,Low,No Effect,1,32285669,0
+Humulus Lupulus,Dextromethorphan,Medium,Possible,1,32285669,1
+Humulus Lupulus,Tolbutamide,Low,No Effect,1,32285669,0
+Hydrastis Canadensis,Caffeine,Low,No Effect,1,15900287,0
+Hydrastis Canadensis,Chlorzoxazone,Low,No Effect,1,15900287,0
+Hydrastis Canadensis,Debrisoquin,Medium,Possible,2,"15900287, 18214849",1
+Hydrastis Canadensis,Midazolam,High,"Negative, Possible",2,"15900287, 17079360",2
+Hydrastis Canadensis,Rosuvastatin,Medium,Possible,1,32292349,1
+Hydrastis canadensis,Caffeine,Low,No Effect,1,21870106,0
+Hydrastis canadensis,Dextromethorphan,High,Negative,1,21870106,2
+Hydrastis canadensis,Furosemide,Low,No Effect,1,33174626,0
+Hydrastis canadensis,Losartan,High,Negative,1,21870106,2
+Hydrastis canadensis,Metformin,High,Negative,1,33174626,2
+Hydrastis canadensis,Omeprazole,Low,No Effect,1,21870106,0
+Hydrastis canadensis,Rosuvastatin,Low,No Effect,1,33174626,0
+Hydrastis canadensis,Tacrolimus,High,Harmful,1,23765408,2
+Hypericum ascyron,Midazolam,High,Negative,1,21680781,2
+Hypericum curvisepalum,Clevidipine,High,Negative,1,28892755,2
+Hypericum lancasteri,Midazolam,High,Negative,1,21680781,2
+Hypericum laricifolium,Midazolam,High,Negative,1,21680781,2
+Hypericum patulum,Midazolam,High,Negative,1,21680781,2
+Hypericum perforatum,Ambrisentan,Medium,Possible,1,25286744,1
+Hypericum perforatum,Caffeine,Low,No Effect,1,11673747,0
+Hypericum perforatum,Clevidipine,High,Negative,1,28892755,2
+Hypericum perforatum,Clozapine,High,Harmful,1,22113252,2
+Hypericum perforatum,Debrisoquin,Low,No Effect,1,18214849,0
+Hypericum perforatum,Dextromethorphan,Low,No Effect,1,11673747,0
+Hypericum perforatum,Docetaxel,High,Negative,1,24068654,2
+Hypericum perforatum,Dolutegravir,High,Harmful,1,31263918,2
+Hypericum perforatum,Fentanyl,Low,No Effect,1,31794512,0
+Hypericum perforatum,Gliclazide,High,Negative,1,18204476,2
+Hypericum perforatum,Ibuprofen,Low,No Effect,1,17284505,0
+Hypericum perforatum,Imatinib,High,Negative,3,"15294859, 15470331, 15537555",2
+Hypericum perforatum,Indinavir,High,Negative,1,10683007,2
+Hypericum perforatum,Irinotecan,High,Negative,1,12189228,2
+Hypericum perforatum,Ivabradine,High,Negative,1,16988208,2
+Hypericum perforatum,Metformin,Medium,Possible,1,25223504,1
+Hypericum perforatum,Midazolam,High,Negative,4,"11673747, 15974642, 21680781",2
+Hypericum perforatum,Omeprazole,High,Negative,1,15001970,2
+Hypericum perforatum,Oxycodone,High,Negative,1,20106684,2
+Hypericum perforatum,Tacrolimus,High,Negative,1,14681346,2
+Hypericum perforatum,Tolbutamide,Low,No Effect,1,11673747,0
+Hypericum perforatum,Verapamil,High,Negative,1,15060508,2
+Hypericum perforatum,Warfarin,High,"Harmful, Negative",3,"15089812, 17050802, 21480130",2
+Hypericum perforatum,Zolpidem,High,Negative,1,21058968,2
+Hypericum sampsonii,Midazolam,High,Negative,1,21680781,2
+Hypericum wightianum,Midazolam,High,Negative,1,21680781,2
+Ilex cornuta,Ibuprofen,Low,No Effect,1,30897305,0
+Ilex cornuta,Potassium,Medium,Possible,1,3297472,1
+Ilex cornuta,Sodium Chloride,Medium,Possible,1,3297472,1
+Ilex cornuta Lindl,Ibuprofen,Low,No Effect,1,30897305,0
+Ilex cornuta Lindl,Potassium,Medium,Possible,1,3297472,1
+Ilex cornuta Lindl,Sodium Chloride,Medium,Possible,1,3297472,1
+Ilex cornuta lindl,Ibuprofen,Low,No Effect,1,30897305,0
+Ilex cornuta lindl,Potassium,Medium,Possible,1,3297472,1
+Ilex cornuta lindl,Sodium Chloride,Medium,Possible,1,3297472,1
+Ilex paraguariensis,Ibuprofen,Low,No Effect,1,30897305,0
+Ilex paraguariensis,Potassium,Medium,Possible,1,3297472,1
+Ilex paraguariensis,Sodium Chloride,Medium,Possible,1,3297472,1
+Inula britannica var. chinensis,Midazolam,High,Negative,1,21680781,2
+Isodon japonica var. glaucocalyx,Doxorubicin,Medium,Possible,1,25947916,1
+Isodon japonica var. glaucocalyx,Tacrolimus,High,Harmful,1,32930420,2
+Isodon rubescens var. lushiensis,Midazolam,High,Negative,1,21680781,2
+Ixeris chinensis,Alendronic Acid,High,Negative,1,7554702,2
+Ixeris chinensis,Doxorubicin,Medium,Possible,1,25947916,1
+Ixeris chinensis,Lusutrombopag,Low,No Effect,1,31566757,0
+Ixeris chinensis,Tacrolimus,High,Harmful,1,32930420,2
+Ixora chinensis,Midazolam,Medium,Possible,1,21943317,1
+Ixora chinensis,Talinolol,Medium,Possible,1,21943317,1
+Juglans regia,Midazolam,High,Negative,1,21680781,2
+Juniperus oxycedrus,Clonidine,High,Harmful,1,25336552,2
+Kummerowia striata,Doxorubicin,Medium,Possible,1,25947916,1
+Kummerowia striata,Tacrolimus,High,Harmful,1,32930420,2
+Lactuca indica,Doxorubicin,Medium,Possible,1,25947916,1
+Lactuca indica,Midazolam,High,Negative,1,21680781,2
+Lactuca indica,Tacrolimus,High,Harmful,1,32930420,2
+Lagerstroemia indica,Tacrolimus,High,Harmful,1,32930420,2
+Lagerstroemia speciosa,Midazolam,High,Negative,1,21680781,2
+Laminaria Digitata,Busulfan,High,Harmful,1,24185586,2
+Lamiophlomis rotata,Doxorubicin,Medium,Possible,1,25947916,1
+Lamiophlomis rotata,Midazolam,High,Negative,1,21680781,2
+Lamiophlomis rotata,Tacrolimus,High,Harmful,1,32930420,2
+Levisticum officinale,Clevidipine,High,Negative,1,28892755,2
+Licorice,Hydrochlorothiazide,High,Harmful,14,31133605,2
+Licorice,Omeprazole,High,Negative,14,20350051,2
+Lignum Aquilariae Resitum,Clevidipine,High,Negative,1,28892755,2
+Lignum Aquilariae Resitum,Midazolam,High,Negative,1,21680781,2
+Lignum Dalbergiae odoriferae Rosewood,Doxorubicin,Medium,Possible,1,25947916,1
+Lignum Dalbergiae odoriferae Rosewood,Midazolam,Medium,Possible,1,21943317,1
+Lignum Dalbergiae odoriferae Rosewood,Talinolol,Medium,Possible,1,21943317,1
+Lignum Pini Nodi,Midazolam,High,Negative,1,21680781,2
+Lignum Santaii Albi,Doxorubicin,Medium,Possible,1,25947916,1
+Lignum Santaii Albi,Tacrolimus,High,Harmful,1,32930420,2
+Lonicera fulvotomentosa,Doxorubicin,Medium,Possible,1,25947916,1
+Lonicera japonica,Doxorubicin,Medium,Possible,1,25947916,1
+Lupinus luteus,Midazolam,Medium,Possible,1,21943317,1
+Lupinus luteus,Talinolol,Medium,Possible,1,21943317,1
+Lycium Barbarum,Warfarin,High,Harmful,4,"11675844, 22392461, 28962463",2
+Lycium barbarum,Midazolam,High,Negative,1,21680781,2
+Lycium chinense,Aspirin,Medium,Possible,1,32325408,1
+Lysimachia candida,Midazolam,High,Negative,1,21680781,2
+Lysimachia christinae,Midazolam,High,Negative,1,21680781,2
+Lysimachia paridiformis,Doxorubicin,Medium,Possible,1,25947916,1
+Lysimachia paridiformis,Midazolam,High,Negative,1,21680781,2
+Lysimachiae Foenigraeci Herba,Midazolam,High,Negative,1,21680781,2
+Lythrum anceps,Tacrolimus,High,Harmful,1,32930420,2
+Lythrum salicaria,Tacrolimus,High,Harmful,1,32930420,2
+Magnolia biondii,Caffeine,Low,No Effect,1,21870106,0
+Magnolia biondii,Dextromethorphan,High,Negative,1,21870106,2
+Magnolia biondii,Losartan,High,Negative,1,21870106,2
+Magnolia biondii,Omeprazole,Low,No Effect,1,21870106,0
+Magnolia biondii,Rosuvastatin,Medium,Possible,1,32292349,1
+Magnolia biondii,Tacrolimus,High,Harmful,1,23765408,2
+Mangifera persiciformis,Midazolam,High,Negative,1,21680781,2
+Margarita,Alendronic Acid,High,Negative,1,7554702,2
+Margarita,Lusutrombopag,Low,No Effect,1,31566757,0
+Massa Medicata Fermentata,Midazolam,High,Negative,1,21680781,2
+Massa fermentata medicinalis Preparata,Fexofenadine,High,Negative,1,17301733,2
+Massa fermentata medicinalis Preparata,Nisoldipine,Low,No Effect,1,8275614,0
+Matricaria Chamomilla,Warfarin,High,Harmful,1,16636327,2
+Meconopsis horridula,Doxorubicin,Medium,Possible,1,25947916,1
+Meconopsis horridula,Tacrolimus,High,Harmful,1,32930420,2
+Meconopsis punicea,Doxorubicin,Medium,Possible,1,25947916,1
+Meconopsis punicea,Tacrolimus,High,Harmful,1,32930420,2
+Medulla Junci,Doxorubicin,Medium,Possible,1,25947916,1
+Medulla Junci,Midazolam,High,Negative,1,21680781,2
+Medulla Stachyuri Medulla Helwingiae,Midazolam,High,Negative,1,21680781,2
+Melilotus Officinalis,Coumarin,High,Harmful,1,22642738,2
+Microctis Folium,Midazolam,High,Negative,1,21680781,2
+Microtoena prainiana,Doxorubicin,Medium,Possible,1,25947916,1
+Microtoena prainiana,Tacrolimus,High,Harmful,1,32930420,2
+Mitragyna Speciosa,Quetiapine,High,Harmful,1,30498933,2
+Mitragyna speciosa,Dextromethorphan,Low,No Effect,1,36924284,0
+Mitragyna speciosa,Quetiapine,High,Harmful,1,30498933,2
+Morinda Citrifolia,Phenytoin,High,Harmful,1,26179835,2
+Morinda citrifolia,Phenytoin,High,Harmful,1,26179835,2
+Morindae Officilis Radix,Aspirin,Medium,Possible,1,32325408,1
+Murraya paniculata var. exotica,Ibuprofen,Low,No Effect,1,30897305,0
+Murraya paniculata var. exotica,Potassium,Medium,Possible,1,3297472,1
+Murraya paniculata var. exotica,Sodium Chloride,Medium,Possible,1,3297472,1
+Myrrha,Midazolam,High,Negative,1,21680781,2
+Nerium indicum,Clevidipine,High,Negative,1,28892755,2
+Nicotiana tabacum,Midazolam,High,Negative,1,21680781,2
+Nodus nelumbinis rhizomatis,Rosuvastatin,Medium,Possible,1,32292349,1
+Notoginseng Flos,Ibuprofen,Low,No Effect,1,30897305,0
+Notoginseng Flos,Potassium,Medium,Possible,1,3297472,1
+Notoginseng Flos,Sodium Chloride,Medium,Possible,1,3297472,1
+Nux Prinsepiae,Midazolam,High,Negative,1,21680781,2
+Oldenlandia corymbosa,Midazolam,Medium,Possible,1,21943317,1
+Oldenlandia corymbosa,Talinolol,Medium,Possible,1,21943317,1
+Oleum Eucalypti,Aspirin,Medium,Possible,1,32325408,1
+Ophicalcitum,Alendronic Acid,High,Negative,1,7554702,2
+Ophicalcitum,Lusutrombopag,Low,No Effect,1,31566757,0
+Oplopanax elatus,Irinotecan,Medium,Possible,1,30372160,1
+Opuntia dillenii,Midazolam,High,Negative,1,21680781,2
+Origanum vulgare,Fexofenadine,High,Negative,1,17301733,2
+Origanum vulgare,Nisoldipine,Low,No Effect,1,8275614,0
+Oroxylum indicum,Clevidipine,High,Negative,1,28892755,2
+Oroxylum indicum,Cyclosporine,Low,No Effect,1,31156436,0
+Os Draconis,Alendronic Acid,High,Negative,1,7554702,2
+Os Draconis,Lusutrombopag,Low,No Effect,1,31566757,0
+Os Draconis Preparata,Alendronic Acid,High,Negative,1,7554702,2
+Os Draconis Preparata,Lusutrombopag,Low,No Effect,1,31566757,0
+Panax Ginseng,Lopinavir,Low,No Effect,1,25142999,0
+Panax Ginseng,Ritonavir,Low,No Effect,1,25142999,0
+Panax ginseng,Aspirin,Low,No Effect,1,28732813,0
+Panax ginseng,Imatinib,High,Harmful,1,20332334,2
+Panax ginseng,Lopinavir,High,Harmful,1,23092794,2
+Panax ginseng,Ritonavir,High,Harmful,1,23092794,2
+Paullinia cupana,Ibuprofen,Low,No Effect,1,30897305,0
+Paullinia cupana,Potassium,Medium,Possible,1,3297472,1
+Paullinia cupana,Sodium Chloride,Medium,Possible,1,3297472,1
+Pericarpium Citri Reticulatae,Aspirin,Medium,Possible,1,32325408,1
+Pericarpium Citri Reticulatae,Fexofenadine,High,Negative,1,17301733,2
+Pericarpium Citri Reticulatae,Nisoldipine,Low,No Effect,1,8275614,0
+Pericarpium Citri Reticulatae Viride,Alendronic Acid,High,Negative,1,7554702,2
+Pericarpium Citri Reticulatae Viride,Fexofenadine,High,Negative,1,17301733,2
+Pericarpium Citri Reticulatae Viride,Lusutrombopag,Low,No Effect,1,31566757,0
+Pericarpium Citri Reticulatae Viride,Nisoldipine,Low,No Effect,1,8275614,0
+Pericarpium Grati,Doxorubicin,Medium,Possible,1,25947916,1
+Pericarpium Grati,Midazolam,High,Negative,1,21680781,2
+Pericarpium Zanthoxyli,Caffeine,Low,No Effect,1,21870106,0
+Pericarpium Zanthoxyli,Dextromethorphan,High,Negative,1,21870106,2
+Pericarpium Zanthoxyli,Losartan,High,Negative,1,21870106,2
+Pericarpium Zanthoxyli,Midazolam,High,Negative,1,21680781,2
+Pericarpium Zanthoxyli,Omeprazole,Low,No Effect,1,21870106,0
+Pericarpium Zanthoxyli,Rosuvastatin,Medium,Possible,1,32292349,1
+Pericarpium Zanthoxyli,Tacrolimus,High,Harmful,1,23765408,2
+Peucedanum govanianum var. bicolo,Midazolam,High,Negative,1,21680781,2
+Phellodendri Amurensis Cortex,Midazolam,High,Negative,1,21680781,2
+Phellodendron amurense,Caffeine,Low,No Effect,1,21870106,0
+Phellodendron amurense,Clevidipine,High,Negative,1,28892755,2
+Phellodendron amurense,Dextromethorphan,High,Negative,1,21870106,2
+Phellodendron amurense,Ibuprofen,Low,No Effect,1,30897305,0
+Phellodendron amurense,Losartan,High,Negative,1,21870106,2
+Phellodendron amurense,Midazolam,High,Negative,1,21680781,2
+Phellodendron amurense,Omeprazole,Low,No Effect,1,21870106,0
+Phellodendron amurense,Potassium,Medium,Possible,1,3297472,1
+Phellodendron amurense,Rosuvastatin,Medium,Possible,1,32292349,1
+Phellodendron amurense,Sodium Chloride,Medium,Possible,1,3297472,1
+Phellodendron amurense,Tacrolimus,High,Harmful,1,23765408,2
+Phellodendron japonicum,Midazolam,High,Negative,1,21680781,2
+Phlomis tuberosa,Ibuprofen,Low,No Effect,1,30897305,0
+Phlomis tuberosa,Potassium,Medium,Possible,1,3297472,1
+Phlomis tuberosa,Sodium Chloride,Medium,Possible,1,3297472,1
+Phyllanthus Emblica,Aspirin,High,Negative,1,24291054,2
+Phyllanthus Emblica,Clopidogrel,High,Negative,1,24291054,2
+Phyllanthus urinaria,Clevidipine,High,Negative,1,28892755,2
+Phyllanthus urinaria,Midazolam,High,Negative,1,21680781,2
+Piper Methysticum,Caffeine,Low,No Effect,1,15900287,0
+Piper Methysticum,Chlorzoxazone,Medium,Possible,1,15900287,1
+Piper Methysticum,Debrisoquin,Low,No Effect,2,"15900287, 18214849",0
+Piper Methysticum,Midazolam,Low,No Effect,1,15900287,0
+Piper guineense,Acetaminophen,Low,No Effect,1,18480186,0
+Piper guineense,Carbamazepine,Medium,Possible,1,19283724,1
+Piper guineense,Flurbiprofen,Low,No Effect,1,18480186,0
+Piper guineense,Midazolam,Medium,"No Effect, Possible",2,"18480186, 24398010",1
+Piper guineense,Phenytoin,Medium,Possible,2,16767797,1
+Piper methysticum,Midazolam,Low,No Effect,1,17495878,0
+Piperis Longi Fructus,Acetaminophen,Low,No Effect,1,18480186,0
+Piperis Longi Fructus,Carbamazepine,Medium,Possible,1,19283724,1
+Piperis Longi Fructus,Flurbiprofen,Low,No Effect,1,18480186,0
+Piperis Longi Fructus,Midazolam,Medium,"No Effect, Possible",2,"18480186, 24398010",1
+Piperis Longi Fructus,Phenytoin,Medium,Possible,2,16767797,1
+Piptanthus nanus,Midazolam,Medium,Possible,1,21943317,1
+Piptanthus nanus,Tacrolimus,High,Harmful,1,32930420,2
+Piptanthus nanus,Talinolol,Medium,Possible,1,21943317,1
+Piptanthus nepalensis,Midazolam,Medium,Possible,1,21943317,1
+Piptanthus nepalensis,Talinolol,Medium,Possible,1,21943317,1
+Plantago major,Clevidipine,High,Negative,1,28892755,2
+Plantago major,Cyclosporine,Low,No Effect,1,31156436,0
+Plantago major,Doxorubicin,Medium,Possible,1,25947916,1
+Plastrum Testudinis,Alendronic Acid,High,Negative,1,7554702,2
+Plastrum Testudinis,Lusutrombopag,Low,No Effect,1,31566757,0
+Plumula Nelumbinis,Clevidipine,High,Negative,1,28892755,2
+Plumula Nelumbinis,Doxorubicin,Medium,Possible,1,25947916,1
+Plumula Nelumbinis,Midazolam,High,Negative,1,21680781,2
+Pogostemon Cablin (Blanco) Benth.,Caffeine,Low,No Effect,1,21870106,0
+Pogostemon Cablin (Blanco) Benth.,Dextromethorphan,High,Negative,1,21870106,2
+Pogostemon Cablin (Blanco) Benth.,Losartan,High,Negative,1,21870106,2
+Pogostemon Cablin (Blanco) Benth.,Midazolam,High,Negative,1,21680781,2
+Pogostemon Cablin (Blanco) Benth.,Omeprazole,Low,No Effect,1,21870106,0
+Pogostemon Cablin (Blanco) Benth.,Rosuvastatin,Medium,Possible,1,32292349,1
+Pogostemon Cablin (Blanco) Benth.,Tacrolimus,High,Harmful,1,23765408,2
+Polygala tenuifolia,Clevidipine,High,Negative,1,28892755,2
+Polygonum multiflorum,Phenylephrine,Medium,Possible,1,30368855,1
+Pomelo,Cyclosporine,High,"Negative, Possible",2,"16513449, 25408261",2
+Pomelo,Sildenafil,High,Negative,1,19830413,2
+Poncirus trifoliata,Fexofenadine,High,Negative,2,17301733,2
+Poncirus trifoliata,Nisoldipine,Low,No Effect,2,8275614,0
+Pteris cretica var. nervosa [Syn. Pteris nervosa ],Doxorubicin,Medium,Possible,1,25947916,1
+Pteris cretica var. nervosa [Syn. Pteris nervosa ],Midazolam,High,Negative,1,21680781,2
+Pterospermum lanceaefolium,Midazolam,High,Negative,1,21680781,2
+Radix Achyranthis bidentatae,Caffeine,Low,No Effect,1,21870106,0
+Radix Achyranthis bidentatae,Clevidipine,High,Negative,1,28892755,2
+Radix Achyranthis bidentatae,Cyclosporine,Low,No Effect,1,31156436,0
+Radix Achyranthis bidentatae,Dextromethorphan,High,Negative,1,21870106,2
+Radix Achyranthis bidentatae,Losartan,High,Negative,1,21870106,2
+Radix Achyranthis bidentatae,Midazolam,High,Negative,1,21680781,2
+Radix Achyranthis bidentatae,Omeprazole,Low,No Effect,1,21870106,0
+Radix Achyranthis bidentatae,Rosuvastatin,Medium,Possible,1,32292349,1
+Radix Achyranthis bidentatae,Tacrolimus,High,Harmful,1,23765408,2
+Radix Adenophorae,Clevidipine,High,Negative,1,28892755,2
+Radix Adenophorae,Cyclosporine,Low,No Effect,1,31156436,0
+Radix Ampelopsis,Caffeine,Low,No Effect,1,21870106,0
+Radix Ampelopsis,Dextromethorphan,High,Negative,1,21870106,2
+Radix Ampelopsis,Losartan,High,Negative,1,21870106,2
+Radix Ampelopsis,Midazolam,High,Negative,1,21680781,2
+Radix Ampelopsis,Omeprazole,Low,No Effect,1,21870106,0
+Radix Ampelopsis,Rosuvastatin,Medium,Possible,1,32292349,1
+Radix Ampelopsis,Tacrolimus,High,Harmful,1,23765408,2
+Radix Angelicae Dahuricae,Caffeine,High,Negative,1,19422358,2
+Radix Angelicae Dahuricae,Chlorzoxazone,Low,No Effect,1,19422358,0
+Radix Angelicae Dahuricae,Dextromethorphan,Low,No Effect,1,19422358,0
+Radix Angelicae Dahuricae,Losartan,Low,No Effect,1,19422358,0
+Radix Angelicae Dahuricae,Omeprazole,Low,No Effect,1,19422358,0
+Radix Angelicae sinensis,Acetaminophen,Low,No Effect,1,18480186,0
+Radix Angelicae sinensis,Everolimus,High,Harmful,1,29112694,2
+Radix Angelicae sinensis,Flurbiprofen,Low,No Effect,1,18480186,0
+Radix Angelicae sinensis,Midazolam,Low,No Effect,1,18480186,0
+Radix Angelicae sinensis,Phenylephrine,Medium,Possible,1,30368855,1
+Radix Angelicae sinensis,Talinolol,High,Negative,1,17468862,2
+Radix Asparagi,Midazolam,High,Negative,1,21680781,2
+Radix Astragali,Clevidipine,High,Negative,1,28892755,2
+Radix Astragali,Fexofenadine,Low,No Effect,1,23422332,0
+Radix Astragali,Midazolam,High,Negative,1,21680781,2
+Radix Boehmeriae,Midazolam,High,Negative,1,21680781,2
+Radix Bupleuri,Clevidipine,High,Negative,2,28892755,2
+Radix Bupleuri,Cyclosporine,Low,No Effect,1,31156436,0
+Radix Bupleuri,Midazolam,High,Negative,1,21680781,2
+Radix Clematidis,Midazolam,High,Negative,1,21680781,2
+Radix Codonopsis pilosulae,Doxorubicin,Medium,Possible,1,25947916,1
+Radix Codonopsis pilosulae,Tacrolimus,High,Harmful,1,32930420,2
+Radix Cudraniae,Phenylephrine,Medium,Possible,1,30368855,1
+Radix Cyathulae,Midazolam,High,"Negative, Possible",2,"21680781, 21943317",2
+Radix Cyathulae,Talinolol,Medium,Possible,1,21943317,1
+Radix Dichroae,Tacrolimus,High,Harmful,1,32930420,2
+Radix Echinopsis,Doxorubicin,Medium,Possible,1,25947916,1
+Radix Echinopsis,Midazolam,High,Negative,1,21680781,2
+Radix Ephedrae,Midazolam,High,Negative,1,21680781,2
+Radix Ephedrae,Tacrolimus,High,Harmful,1,32930420,2
+Radix Firmianae plantanifoliae,Ibuprofen,Low,No Effect,1,30897305,0
+Radix Firmianae plantanifoliae,Potassium,Medium,Possible,1,3297472,1
+Radix Firmianae plantanifoliae,Sodium Chloride,Medium,Possible,1,3297472,1
+Radix Ginseng,Phenylephrine,Medium,Possible,1,30368855,1
+Radix Ginseng Rubra,Caffeine,Low,No Effect,2,30078466,0
+Radix Ginseng Rubra,Dextromethorphan,Low,No Effect,2,30078466,0
+Radix Ginseng Rubra,Losartan,Low,No Effect,1,30078466,0
+Radix Ginseng Rubra,Midazolam,Low,No Effect,2,30078466,0
+Radix Ginseng Rubra,Omeprazole,Low,No Effect,1,30078466,0
+Radix Ginseng Rubra,Pitavastatin,Low,No Effect,2,30078466,0
+Radix Glehniae,Midazolam,High,Negative,1,21680781,2
+Radix Glycyrrhizae,Clevidipine,High,Negative,1,28892755,2
+Radix Glycyrrhizae,Fexofenadine,High,Negative,1,17301733,2
+Radix Glycyrrhizae,Midazolam,High,Negative,2,"20393696, 21680781",2
+Radix Glycyrrhizae,Nisoldipine,Low,No Effect,1,8275614,0
+Radix Glycyrrhizae,Talinolol,Low,No Effect,1,22983284,0
+Radix Glycyrrhizae Praeparata,Clevidipine,High,Negative,1,28892755,2
+Radix Glycyrrhizae Praeparata,Midazolam,High,Negative,1,20393696,2
+Radix Glycyrrhizae Praeparata,Talinolol,Low,No Effect,1,22983284,0
+Radix Glycyrrhizae Preparata,Midazolam,High,Negative,1,20393696,2
+Radix Glycyrrhizae Preparata,Talinolol,Low,No Effect,1,22983284,0
+Radix Glycyrrhizae uralensis,Midazolam,High,Negative,1,20393696,2
+Radix Glycyrrhizae uralensis,Talinolol,Low,No Effect,1,22983284,0
+Radix Isatidis seu Baphicacanthi,Clevidipine,High,Negative,1,28892755,2
+Radix Isatidis seu Baphicacanthi,Midazolam,High,Negative,1,21680781,2
+Radix Isatidis seu Baphicacanthi,Tacrolimus,High,Harmful,1,32930420,2
+Radix Kansui,Phenylephrine,Medium,Possible,1,30368855,1
+Radix Linderae,Midazolam,High,Negative,1,21680781,2
+Radix Moghaniae Philippinensis,Fexofenadine,High,Negative,1,17301733,2
+Radix Moghaniae Philippinensis,Midazolam,Medium,Possible,1,21943317,1
+Radix Moghaniae Philippinensis,Nisoldipine,Low,No Effect,1,8275614,0
+Radix Moghaniae Philippinensis,Talinolol,Medium,Possible,1,21943317,1
+Radix Morindae officinalis,Aspirin,Medium,Possible,1,32325408,1
+Radix Notoginseng,Clevidipine,High,Negative,1,28892755,2
+Radix Notoginseng,Midazolam,High,Negative,1,21680781,2
+Radix Pacis quinquefolii,Phenytoin,High,Harmful,1,55569,2
+Radix Paeoniae Rubra,Clevidipine,High,Negative,1,28892755,2
+Radix Paeoniae Rubra,Cyclosporine,Low,No Effect,1,31156436,0
+Radix Platycodi,Aspirin,Medium,Possible,1,32325408,1
+Radix Platycodi,Doxorubicin,Medium,Possible,1,25947916,1
+Radix Pseudostellariae,Doxorubicin,Medium,Possible,1,25947916,1
+Radix Puerariae,Midazolam,Medium,Possible,1,21943317,1
+Radix Puerariae,Talinolol,Medium,Possible,1,21943317,1
+Radix Salviae liguliobae,Clevidipine,High,Negative,2,28892755,2
+Radix Salviae liguliobae,Cyclosporine,Low,No Effect,1,31156436,0
+Radix Salviae liguliobae,Doxorubicin,Medium,Possible,1,25947916,1
+Radix Salviae liguliobae,Midazolam,High,Negative,1,21680781,2
+Radix Salviae liguliobae,Tacrolimus,High,Harmful,1,32930420,2
+Radix Sanguisorbae,Midazolam,High,Negative,1,21680781,2
+Radix Schizomepetae tenuifoliae,Doxorubicin,Medium,Possible,1,25947916,1
+Radix Scutellariae,Caffeine,High,Negative,1,19422358,2
+Radix Scutellariae,Clevidipine,High,Negative,1,28892755,2
+Radix Scutellariae,Cyclosporine,Low,No Effect,1,31156436,0
+Radix Scutellariae,Dextromethorphan,Low,No Effect,1,19422358,0
+Radix Scutellariae,Losartan,High,Negative,1,19422358,2
+Radix Scutellariae,Midazolam,Low,No Effect,2,19422358,0
+Radix Scutellariae,Omeprazole,Low,No Effect,1,19422358,0
+Radix Scutellariae,Tacrolimus,High,Harmful,1,32930420,2
+Radix Semiaquilegiae,Midazolam,Medium,Possible,1,21943317,1
+Radix Semiaquilegiae,Talinolol,Medium,Possible,1,21943317,1
+Radix Smilacis,Fexofenadine,High,Negative,1,17301733,2
+Radix Smilacis,Nisoldipine,Low,No Effect,1,8275614,0
+Radix Sophorae Tonkinensis,Doxorubicin,Medium,Possible,1,25947916,1
+Radix Sophorae Tonkinensis,Midazolam,High,"Negative, Possible",2,"21680781, 21943317",2
+Radix Sophorae Tonkinensis,Tacrolimus,High,Harmful,1,32930420,2
+Radix Sophorae Tonkinensis,Talinolol,Medium,Possible,1,21943317,1
+Radix Sophorae flavescentis,Doxorubicin,Medium,Possible,1,25947916,1
+Radix Sophorae flavescentis,Midazolam,High,Negative,1,21680781,2
+Radix Sophorae flavescentis,Tacrolimus,High,Harmful,1,32930420,2
+Radix Stellariae,Aspirin,Medium,Possible,1,32325408,1
+Radix Stephaniae Cepharanthae.,Caffeine,Low,No Effect,1,21870106,0
+Radix Stephaniae Cepharanthae.,Dextromethorphan,High,Negative,1,21870106,2
+Radix Stephaniae Cepharanthae.,Losartan,High,Negative,1,21870106,2
+Radix Stephaniae Cepharanthae.,Omeprazole,Low,No Effect,1,21870106,0
+Radix Stephaniae Cepharanthae.,Rosuvastatin,Medium,Possible,1,32292349,1
+Radix Stephaniae Cepharanthae.,Tacrolimus,High,Harmful,1,23765408,2
+Radix Stephaniae Tetrandrae,Caffeine,Low,No Effect,1,21870106,0
+Radix Stephaniae Tetrandrae,Dextromethorphan,High,Negative,1,21870106,2
+Radix Stephaniae Tetrandrae,Losartan,High,Negative,1,21870106,2
+Radix Stephaniae Tetrandrae,Omeprazole,Low,No Effect,1,21870106,0
+Radix Stephaniae Tetrandrae,Rosuvastatin,Medium,Possible,1,32292349,1
+Radix Stephaniae Tetrandrae,Tacrolimus,High,Harmful,1,23765408,2
+Radix et Caulis Mahonae flavidae,Caffeine,Low,No Effect,1,21870106,0
+Radix et Caulis Mahonae flavidae,Dextromethorphan,High,Negative,1,21870106,2
+Radix et Caulis Mahonae flavidae,Losartan,High,Negative,1,21870106,2
+Radix et Caulis Mahonae flavidae,Omeprazole,Low,No Effect,1,21870106,0
+Radix et Caulis Mahonae flavidae,Rosuvastatin,Medium,Possible,1,32292349,1
+Radix et Caulis Mahonae flavidae,Tacrolimus,High,Harmful,1,23765408,2
+Radix et Rhizoma Rhodiolae,Clevidipine,High,Negative,1,28892755,2
+Radix et Rhizoma Thalictri,Caffeine,Low,No Effect,1,21870106,0
+Radix et Rhizoma Thalictri,Clevidipine,High,Negative,1,28892755,2
+Radix et Rhizoma Thalictri,Cyclosporine,Low,No Effect,1,31156436,0
+Radix et Rhizoma Thalictri,Dextromethorphan,High,Negative,1,21870106,2
+Radix et Rhizoma Thalictri,Losartan,High,Negative,1,21870106,2
+Radix et Rhizoma Thalictri,Midazolam,High,Negative,1,21680781,2
+Radix et Rhizoma Thalictri,Omeprazole,Low,No Effect,1,21870106,0
+Radix et Rhizoma Thalictri,Rosuvastatin,Medium,Possible,1,32292349,1
+Radix et Rhizoma Thalictri,Tacrolimus,High,Harmful,1,23765408,2
+Ramulus Cinmomi,Doxorubicin,Medium,Possible,1,25947916,1
+Ramulus Euonymi,Clevidipine,High,Negative,1,28892755,2
+Ramulus Euonymi,Cyclosporine,Low,No Effect,1,31156436,0
+Ramulus Euonymi,Midazolam,High,Negative,1,21680781,2
+Ramulus Uncariae cum Uncis,Caffeine,Low,No Effect,1,21870106,0
+Ramulus Uncariae cum Uncis,Clevidipine,High,Negative,1,28892755,2
+Ramulus Uncariae cum Uncis,Clonidine,High,Harmful,1,25336552,2
+Ramulus Uncariae cum Uncis,Dextromethorphan,High,Negative,1,21870106,2
+Ramulus Uncariae cum Uncis,Losartan,High,Negative,1,21870106,2
+Ramulus Uncariae cum Uncis,Midazolam,High,Negative,1,21680781,2
+Ramulus Uncariae cum Uncis,Omeprazole,Low,No Effect,1,21870106,0
+Ramulus Uncariae cum Uncis,Rosuvastatin,Medium,Possible,1,32292349,1
+Ramulus Uncariae cum Uncis,Tacrolimus,High,Harmful,1,23765408,2
+Rauvolfia verticillata,Clonidine,High,Harmful,1,25336552,2
+Rauvolfia yunnanensis,Clonidine,High,Harmful,1,25336552,2
+Rauwolfia nitida,Clonidine,High,Harmful,1,25336552,2
+Rauwolfia serpentina,Clonidine,High,Harmful,1,25336552,2
+Receptaculum Nelumbinis,Fexofenadine,High,Negative,1,17301733,2
+Receptaculum Nelumbinis,Midazolam,High,Negative,1,21680781,2
+Receptaculum Nelumbinis,Nisoldipine,Low,No Effect,1,8275614,0
+Red Clover,Alprazolam,Low,No Effect,1,33197178,0
+Red Clover,Caffeine,Low,No Effect,1,33197178,0
+Red Clover,Dextromethorphan,Low,No Effect,1,33197178,0
+Red Clover,Tolbutamide,Low,No Effect,1,33197178,0
+Red ginseng,Cisplatin,Medium,Possible,1,26142337,1
+Red ginseng,Warfarin,Medium,Possible,2,19913311,1
+Reineckea carnea,Midazolam,High,Negative,1,21680781,2
+Reseda luteola,Doxorubicin,Medium,Possible,1,25947916,1
+Resi oliani,Midazolam,High,Negative,1,21680781,2
+Rhaponticum carthamoides,Tacrolimus,High,Harmful,1,32930420,2
+Rheum Palmatum,Busulfan,High,Harmful,1,24185586,2
+Rheum wittrocki,Phenylephrine,Medium,Possible,1,30368855,1
+Rhinoceros sumatrensis,Alendronic Acid,High,Negative,1,7554702,2
+Rhinoceros sumatrensis,Lusutrombopag,Low,No Effect,1,31566757,0
+Rhizoma Acori Talarinowii,Tacrolimus,High,Harmful,1,32930420,2
+Rhizoma Belamcandae,Doxorubicin,Medium,Possible,1,25947916,1
+Rhizoma Belamcandae,Midazolam,Medium,Possible,1,21943317,1
+Rhizoma Belamcandae,Tacrolimus,High,Harmful,1,32930420,2
+Rhizoma Belamcandae,Talinolol,Medium,Possible,1,21943317,1
+Rhizoma Bistortae,Midazolam,High,Negative,1,21680781,2
+Rhizoma Cimicifugae,Aspirin,Medium,Possible,1,32325408,1
+Rhizoma Coptidis,Caffeine,Low,No Effect,2,21870106,0
+Rhizoma Coptidis,Dextromethorphan,High,Negative,2,21870106,2
+Rhizoma Coptidis,Losartan,High,Negative,2,21870106,2
+Rhizoma Coptidis,Midazolam,High,Negative,1,21680781,2
+Rhizoma Coptidis,Omeprazole,Low,No Effect,2,21870106,0
+Rhizoma Coptidis,Rosuvastatin,Medium,Possible,2,32292349,1
+Rhizoma Coptidis,Tacrolimus,High,Harmful,2,23765408,2
+Rhizoma Coptidis,Venlafaxine,Medium,Possible,1,35132786,1
+Rhizoma Corydalis,Caffeine,Low,No Effect,1,21870106,0
+Rhizoma Corydalis,Dextromethorphan,High,Negative,1,21870106,2
+Rhizoma Corydalis,Losartan,High,Negative,1,21870106,2
+Rhizoma Corydalis,Midazolam,High,Negative,1,21680781,2
+Rhizoma Corydalis,Omeprazole,Low,No Effect,1,21870106,0
+Rhizoma Corydalis,Rosuvastatin,Medium,Possible,1,32292349,1
+Rhizoma Corydalis,Tacrolimus,High,Harmful,1,23765408,2
+Rhizoma Curculiginis,Ibuprofen,Low,No Effect,1,30897305,0
+Rhizoma Curculiginis,Potassium,Medium,Possible,1,3297472,1
+Rhizoma Curculiginis,Sodium Chloride,Medium,Possible,1,3297472,1
+Rhizoma Curcumae,Acetaminophen,Low,No Effect,1,18480186,0
+Rhizoma Curcumae,Everolimus,High,Harmful,1,29112694,2
+Rhizoma Curcumae,Flurbiprofen,Low,No Effect,1,18480186,0
+Rhizoma Curcumae,Midazolam,Low,No Effect,1,18480186,0
+Rhizoma Curcumae,Phenylephrine,Medium,Possible,1,30368855,1
+Rhizoma Curcumae,Talinolol,High,Negative,1,17468862,2
+Rhizoma Cyperi,Clevidipine,High,Negative,1,28892755,2
+Rhizoma Cyperi,Doxorubicin,Medium,Possible,1,25947916,1
+Rhizoma Cyperi,Midazolam,High,Negative,1,21680781,2
+Rhizoma Dioscoreae bulbiferae,Midazolam,High,Negative,1,21680781,2
+Rhizoma Dryopteris crassirhizomae,Fexofenadine,High,Negative,1,17301733,2
+Rhizoma Dryopteris crassirhizomae,Nisoldipine,Low,No Effect,1,8275614,0
+Rhizoma Dryriae,Clevidipine,High,Negative,1,28892755,2
+Rhizoma Dryriae,Cyclosporine,Low,No Effect,1,31156436,0
+Rhizoma Dryriae,Doxorubicin,Medium,Possible,1,25947916,1
+Rhizoma Dryriae,Fexofenadine,High,Negative,1,17301733,2
+Rhizoma Dryriae,Nisoldipine,Low,No Effect,1,8275614,0
+Rhizoma Fagopyri Cymosi,Doxorubicin,Medium,Possible,1,25947916,1
+Rhizoma Fagopyri Cymosi,Midazolam,High,Negative,1,21680781,2
+Rhizoma Glycyrrhizae uralensis,Midazolam,High,Negative,1,20393696,2
+Rhizoma Glycyrrhizae uralensis,Talinolol,Low,No Effect,1,22983284,0
+Rhizoma Homalomee occultae,Phenylephrine,Medium,Possible,1,30368855,1
+Rhizoma Phragmitis,Midazolam,High,Negative,1,21680781,2
+Rhizoma Pinelliae,Clevidipine,High,Negative,1,28892755,2
+Rhizoma Pinelliae,Cyclosporine,Low,No Effect,1,31156436,0
+Rhizoma Pinelliae,Midazolam,High,Negative,1,21680781,2
+Rhizoma Polygoni cuspidati,Doxorubicin,Medium,Possible,1,25947916,1
+Rhizoma Polygoni cuspidati,Midazolam,High,Negative,1,21680781,2
+Rhizoma Polygoni cuspidati,Phenylephrine,Medium,Possible,1,30368855,1
+Rhizoma Polygoni cuspidati,Tacrolimus,High,Harmful,1,32930420,2
+Rhizoma Polygoti,Tacrolimus,High,Harmful,1,32930420,2
+Rhizoma Smilacis Glabrae,Midazolam,High,Negative,1,21680781,2
+Rhizoma Smilacis Glabrae,Phenylephrine,Medium,Possible,1,30368855,1
+Rhizoma Sparganii,Tacrolimus,High,Harmful,1,32930420,2
+Rhizoma Wenyujin Concisum,Acetaminophen,Low,No Effect,1,18480186,0
+Rhizoma Wenyujin Concisum,Everolimus,High,Harmful,1,29112694,2
+Rhizoma Wenyujin Concisum,Flurbiprofen,Low,No Effect,1,18480186,0
+Rhizoma Wenyujin Concisum,Midazolam,Low,No Effect,1,18480186,0
+Rhizoma Wenyujin Concisum,Phenylephrine,Medium,Possible,1,30368855,1
+Rhizoma Wenyujin Concisum,Talinolol,High,Negative,1,17468862,2
+Rhizoma seu Herba Saururi,Midazolam,High,Negative,1,21680781,2
+Rhizome fagopyri dibotryis,Doxorubicin,Medium,Possible,1,25947916,1
+Rhizome fagopyri dibotryis,Midazolam,High,Negative,1,21680781,2
+Rhodiola Rosea,Caffeine,Low,No Effect,1,26613955,0
+Rhodiola Rosea,Dextromethorphan,Low,No Effect,1,26613955,0
+Rhodiola Rosea,Losartan,Medium,Possible,1,26613955,1
+Rhodiola Rosea,Midazolam,Low,No Effect,1,26613955,0
+Rhodiola Rosea,Omeprazole,Low,No Effect,1,26613955,0
+Rhodiola Rosea,Paroxetine,High,Harmful,1,25413939,2
+Rhodiola algida,Clevidipine,High,Negative,1,28892755,2
+Rhodiola atuntsuensis,Clevidipine,High,Negative,1,28892755,2
+Rhodiola coccinea,Clevidipine,High,Negative,1,28892755,2
+Rhodiola crenulata [Syn. Rhodiola euryphylla],Midazolam,High,Negative,1,21680781,2
+Rhodiola himalansis,Clevidipine,High,Negative,1,28892755,2
+Rhodiola juparensis,Clevidipine,High,Negative,1,28892755,2
+Rhodiola kirilowii,Clevidipine,High,Negative,1,28892755,2
+Rhodiola quadrifida,Clevidipine,High,Negative,1,28892755,2
+Rhodiola subopposita,Clevidipine,High,Negative,1,28892755,2
+Rhodiola yunnanesis,Clevidipine,High,Negative,1,28892755,2
+Rhododendron huianum,Midazolam,High,Negative,1,21680781,2
+Rhododendron lingii,Midazolam,High,Negative,1,21680781,2
+Rhododendron mariae,Midazolam,High,Negative,1,21680781,2
+Rhododendron micranthum,Midazolam,High,Negative,1,21680781,2
+Rhododendron mucronulatum,Midazolam,High,Negative,1,21680781,2
+Rhododendron ovatum,Midazolam,High,Negative,1,21680781,2
+Rhododendron seniavinii,Midazolam,High,Negative,1,21680781,2
+Rhodomyrtus tomentosa,Midazolam,High,Negative,1,21680781,2
+Ricinus communis,Doxorubicin,Medium,Possible,1,25947916,1
+Rubi Fructus,Acetaminophen,Low,No Effect,1,18480186,0
+Rubi Fructus,Carbamazepine,Medium,Possible,1,19283724,1
+Rubi Fructus,Clevidipine,High,Negative,1,28892755,2
+Rubi Fructus,Flurbiprofen,Low,No Effect,1,18480186,0
+Rubi Fructus,Midazolam,High,"Negative, No Effect, Possible",3,"18480186, 21680781, 24398010",2
+Rubi Fructus,Phenytoin,Medium,Possible,2,16767797,1
+Rubia wallichiana,Doxorubicin,Medium,Possible,1,25947916,1
+Rubia wallichiana,Tacrolimus,High,Harmful,1,32930420,2
+Rumex Acetosa,Busulfan,High,Harmful,1,24185586,2
+Salvia miltiorrhiza,Rosuvastatin,High,Negative,1,30962748,2
+Salvia miltiorrhiza f. alba,Clevidipine,High,Negative,1,28892755,2
+Salvia staminea,Doxorubicin,Medium,Possible,1,25947916,1
+Salvia staminea,Tacrolimus,High,Harmful,1,32930420,2
+Sambucus williamsii,Aspirin,Medium,Possible,1,32325408,1
+Sapindus mukorossi,Tacrolimus,High,Harmful,1,32930420,2
+Sargassum,Midazolam,High,Negative,1,21680781,2
+Saussurea involucrata,Doxorubicin,Medium,Possible,1,25947916,1
+Saussurea involucrata,Tacrolimus,High,Harmful,1,32930420,2
+Saussurea medusa,Doxorubicin,Medium,Possible,1,25947916,1
+Saussurea medusa,Midazolam,High,Negative,1,21680781,2
+Saussurea medusa,Tacrolimus,High,Harmful,1,32930420,2
+Saxifraga Stolonifera,Midazolam,High,Negative,1,21680781,2
+Schisandra sphenanthera,Tacrolimus,Medium,Possible,1,31712547,1
+Schisandrae Chinensis Fructus,Clevidipine,High,Negative,1,28892755,2
+Schisandrae Chinensis Fructus,Midazolam,High,Negative,1,21680781,2
+Schisandrae Chinensis Fructus,Phenytoin,Medium,Possible,1,34998822,1
+Schisandrae Chinensis Fructus,Warfarin,Medium,Possible,1,35921950,1
+Schnabelia tetradonta,Tacrolimus,High,Harmful,1,32930420,2
+Scurrura atropurpurea,Ibuprofen,Low,No Effect,1,30897305,0
+Scurrura atropurpurea,Potassium,Medium,Possible,1,3297472,1
+Scurrura atropurpurea,Sodium Chloride,Medium,Possible,1,3297472,1
+Scutellaria amoena,Clevidipine,High,Negative,1,28892755,2
+Scutellaria amoena,Cyclosporine,Low,No Effect,1,31156436,0
+Scutellaria hypericifolia,Clevidipine,High,Negative,1,28892755,2
+Scutellaria hypericifolia,Cyclosporine,Low,No Effect,1,31156436,0
+Scutellaria indica,Doxorubicin,Medium,Possible,1,25947916,1
+Scutellaria indica,Tacrolimus,High,Harmful,1,32930420,2
+Scutellaria rehderiana,Clevidipine,High,Negative,1,28892755,2
+Scutellaria rehderiana,Cyclosporine,Low,No Effect,1,31156436,0
+Scutellaria scordifolia,Clevidipine,High,Negative,1,28892755,2
+Scutellaria scordifolia,Cyclosporine,Low,No Effect,1,31156436,0
+Scutellaria viscidula,Clevidipine,High,Negative,1,28892755,2
+Scutellaria viscidula,Cyclosporine,Low,No Effect,1,31156436,0
+Sedum lineare [Syn. Sedum obtuso-lineare ],Doxorubicin,Medium,Possible,1,25947916,1
+Sedum lineare [Syn. Sedum obtuso-lineare ],Midazolam,High,Negative,1,21680781,2
+Selaginella doederleinii,Tacrolimus,High,Harmful,1,32930420,2
+Semen Aesculi,Acetaminophen,Low,No Effect,1,18480186,0
+Semen Aesculi,Everolimus,High,Harmful,1,29112694,2
+Semen Aesculi,Flurbiprofen,Low,No Effect,1,18480186,0
+Semen Aesculi,Midazolam,High,"Negative, No Effect",2,"18480186, 21680781",2
+Semen Aesculi,Phenylephrine,Medium,Possible,1,30368855,1
+Semen Aesculi,Talinolol,High,Negative,1,17468862,2
+Semen Astragali Complati,Midazolam,High,Negative,1,21680781,2
+Semen Benincasae,Aspirin,Medium,Possible,1,32325408,1
+Semen Canbis;Fructus Canbis,Doxorubicin,Medium,Possible,1,25947916,1
+Semen Canbis;Fructus Canbis,Tacrolimus,High,Harmful,1,32930420,2
+Semen Cassiae,Doxorubicin,Medium,Possible,1,25947916,1
+Semen Cucumis,Fexofenadine,High,Negative,1,17301733,2
+Semen Cucumis,Nisoldipine,Low,No Effect,1,8275614,0
+Semen Cuseutae,Aluminum Hydroxide,Medium,Possible,1,6834247,1
+Semen Cuseutae,Midazolam,High,Negative,1,21680781,2
+Semen Euryales,Aspirin,Medium,Possible,1,32325408,1
+Semen Firmiae,Ibuprofen,Low,No Effect,1,30897305,0
+Semen Firmiae,Potassium,Medium,Possible,1,3297472,1
+Semen Firmiae,Sodium Chloride,Medium,Possible,1,3297472,1
+Semen Ginkgo,Aspirin,Medium,Possible,1,32325408,1
+Semen Ginkgo,Buspirone,Low,No Effect,1,17164372,0
+Semen Ginkgo,Caffeine,Low,No Effect,1,17164372,0
+Semen Ginkgo,Clevidipine,High,Negative,1,28892755,2
+Semen Ginkgo,Dextromethorphan,Low,No Effect,1,17164372,0
+Semen Ginkgo,Losartan,Low,No Effect,1,17164372,0
+Semen Ginkgo,Midazolam,High,Negative,1,21680781,2
+Semen Ginkgo,Nadolol,High,Negative,2,29480324,2
+Semen Ginkgo,Rosuvastatin,Medium,Possible,4,"28533679, 32407265",1
+Semen Glycine Max,Doxorubicin,Medium,Possible,1,25947916,1
+Semen Glycine Max,Midazolam,Medium,Possible,1,21943317,1
+Semen Glycine Max,Talinolol,Medium,Possible,1,21943317,1
+Semen Impatientis,Midazolam,High,Negative,1,21680781,2
+Semen Juglandis,Acetaminophen,Low,No Effect,1,18480186,0
+Semen Juglandis,Everolimus,High,Harmful,1,29112694,2
+Semen Juglandis,Flurbiprofen,Low,No Effect,1,18480186,0
+Semen Juglandis,Midazolam,Low,No Effect,1,18480186,0
+Semen Juglandis,Phenylephrine,Medium,Possible,1,30368855,1
+Semen Juglandis,Talinolol,High,Negative,1,17468862,2
+Semen Lablab Album,Clevidipine,High,Negative,1,28892755,2
+Semen Lablab Album,Midazolam,High,Negative,1,21680781,2
+Semen Lepiddi seu Descurainiae;Semen Lepidii；Semen Descurainiae,Midazolam,High,Negative,1,21680781,2
+Semen Litchi,Midazolam,High,Negative,1,21680781,2
+Semen Mangiferae indica,Midazolam,High,Negative,1,21680781,2
+Semen Oroxyli,Caffeine,Low,No Effect,1,21870106,0
+Semen Oroxyli,Clevidipine,High,Negative,1,28892755,2
+Semen Oroxyli,Cyclosporine,Low,No Effect,1,31156436,0
+Semen Oroxyli,Dextromethorphan,High,Negative,1,21870106,2
+Semen Oroxyli,Losartan,High,Negative,1,21870106,2
+Semen Oroxyli,Midazolam,High,Negative,1,21680781,2
+Semen Oroxyli,Omeprazole,Low,No Effect,1,21870106,0
+Semen Oroxyli,Rosuvastatin,Medium,Possible,1,32292349,1
+Semen Oroxyli,Tacrolimus,High,Harmful,2,"23765408, 32930420",2
+Semen Oryzae cum Monasco Fermentatum,Aspirin,Medium,Possible,1,32325408,1
+Semen Persicae,Doxorubicin,Medium,Possible,1,25947916,1
+Semen Persicae,Tacrolimus,High,Harmful,1,32930420,2
+Semen Pharbitidis,Alendronic Acid,High,Negative,1,7554702,2
+Semen Pharbitidis,Lusutrombopag,Low,No Effect,1,31566757,0
+Semen Phaseoli,Phenylephrine,Medium,Possible,1,30368855,1
+Semen Plantaginis,Midazolam,High,Negative,1,21680781,2
+Semen Plantaginis,Tacrolimus,High,Harmful,1,32930420,2
+Semen Pruni,Midazolam,High,Negative,1,21680781,2
+Semen Ricini,Clevidipine,High,Negative,1,28892755,2
+Semen Ricini,Cyclosporine,Low,No Effect,1,31156436,0
+Semen Ricini,Midazolam,High,Negative,1,21680781,2
+Semen Sojae Praeparata,Midazolam,Medium,Possible,1,21943317,1
+Semen Sojae Praeparata,Tacrolimus,High,Harmful,1,32930420,2
+Semen Sojae Praeparata,Talinolol,Medium,Possible,1,21943317,1
+Semen Vaccariae,Midazolam,High,Negative,1,21680781,2
+Semen Vaccariae,Phenylephrine,Medium,Possible,1,30368855,1
+Semen armeniacae amarum,Doxorubicin,Medium,Possible,1,25947916,1
+Semen armeniacae amarum,Tacrolimus,High,Harmful,1,32930420,2
+Senecio chrysanthemoides,Doxorubicin,Medium,Possible,1,25947916,1
+Senecio chrysanthemoides,Midazolam,High,Negative,1,21680781,2
+Senecio oryzetorum,Midazolam,High,Negative,1,21680781,2
+Senecio scandens,Doxorubicin,Medium,Possible,1,25947916,1
+Senecio scandens,Midazolam,High,Negative,1,21680781,2
+Sepiella maindronide Rochebrune,Alendronic Acid,High,Negative,1,7554702,2
+Sepiella maindronide Rochebrune,Lusutrombopag,Low,No Effect,1,31566757,0
+Serenoa Repens,Alprazolam,Low,No Effect,1,14663456,0
+Serenoa Repens,Caffeine,Low,No Effect,1,15536458,0
+Serenoa Repens,Chlorzoxazone,Low,No Effect,1,15536458,0
+Serenoa Repens,Debrisoquin,Low,No Effect,1,15536458,0
+Serenoa Repens,Dextromethorphan,Low,No Effect,1,14663456,0
+Serenoa Repens,Midazolam,Low,No Effect,1,15536458,0
+Seville Orange,Colchicine,High,Negative,1,22940371,2
+Silybum Marianum,Caffeine,Low,No Effect,1,15536458,0
+Silybum Marianum,Chlorzoxazone,Low,No Effect,1,15536458,0
+Silybum Marianum,Debrisoquin,Low,No Effect,2,"15536458, 18214849",0
+Silybum Marianum,Digoxin,Medium,Possible,1,16221754,1
+Silybum Marianum,Irinotecan,Low,No Effect,2,16278402,0
+Silybum Marianum,Midazolam,High,"Negative, No Effect",2,"15536458, 21680781",2
+Silybum Marianum,Raloxifene,Medium,Possible,2,26070840,1
+Silybum marianum,Indinavir,Low,No Effect,1,12013352,0
+Sinoadina racemosa [Syn. Adina racemosa ],Midazolam,High,Negative,1,21680781,2
+Siphonostegia chinensis,Aspirin,Medium,Possible,1,32325408,1
+Siphonostegia chinensis,Doxorubicin,Medium,Possible,1,25947916,1
+Siphonostegia chinensis,Tacrolimus,High,Harmful,1,32930420,2
+Smilax menispermoidea,Phenylephrine,Medium,Possible,1,30368855,1
+Solanum nigrum L.,Aspirin,Medium,Possible,1,32325408,1
+Solanum nigrum L.,Midazolam,High,Negative,1,21680781,2
+Sonchus arvensis,Tacrolimus,High,Harmful,1,32930420,2
+Sophora Japonica L,Midazolam,Medium,Possible,1,21943317,1
+Sophora Japonica L,Talinolol,Medium,Possible,1,21943317,1
+Sophora japonica,Midazolam,Medium,Possible,1,21943317,1
+Sophora japonica,Talinolol,Medium,Possible,1,21943317,1
+Sorbaria sorbifolia,Midazolam,High,Negative,1,21680781,2
+Spi gleditsiae,Midazolam,High,Negative,1,21680781,2
+Spica Prunellae,Alendronic Acid,High,Negative,1,7554702,2
+Spica Prunellae,Clevidipine,High,Negative,1,28892755,2
+Spica Prunellae,Doxorubicin,Medium,Possible,1,25947916,1
+Spica Prunellae,Lusutrombopag,Low,No Effect,1,31566757,0
+Spica Prunellae,Midazolam,High,Negative,1,21680781,2
+Spora Lygodii,Tacrolimus,High,Harmful,1,32930420,2
+Stamen Nelumbinis,Doxorubicin,Medium,Possible,1,25947916,1
+Stamen Nelumbinis,Midazolam,High,Negative,1,21680781,2
+Stephania japonica,Caffeine,Low,No Effect,1,21870106,0
+Stephania japonica,Dextromethorphan,High,Negative,1,21870106,2
+Stephania japonica,Losartan,High,Negative,1,21870106,2
+Stephania japonica,Omeprazole,Low,No Effect,1,21870106,0
+Stephania japonica,Rosuvastatin,Medium,Possible,1,32292349,1
+Stephania japonica,Tacrolimus,High,Harmful,1,23765408,2
+Stevia Rebaudiana,Simvastatin,High,Harmful,1,30714173,2
+Stigma Croci,Midazolam,High,Negative,1,21680781,2
+Stigma Maydis,Doxorubicin,Medium,Possible,1,25947916,1
+Sutherlandia Frutescens,Isoniazid,Low,No Effect,3,26186450,0
+Symplocos chinensis,Midazolam,High,Negative,1,21680781,2
+Syzygium samarangense,Midazolam,High,Negative,1,21680781,2
+Tagetes patula,Midazolam,High,Negative,1,21680781,2
+Tamarix chinensis,Midazolam,High,Negative,1,21680781,2
+Taraxacum mongolicum,Midazolam,High,Negative,1,21680781,2
+Taraxacum officinale,Doxorubicin,Medium,Possible,1,25947916,1
+Taraxacum officinale,Midazolam,High,Negative,1,21680781,2
+Taraxacum officinale,Tacrolimus,High,Harmful,1,32930420,2
+Terra Flava Usta,Doxorubicin,Medium,Possible,1,25947916,1
+Terra Flava Usta,Tacrolimus,High,Harmful,1,32930420,2
+Testa Arachidis Hypogaeae,Doxorubicin,Medium,Possible,1,25947916,1
+Testa Arachidis Hypogaeae,Midazolam,High,Negative,1,21680781,2
+Testa Arachidis Hypogaeae,Phenylephrine,Medium,Possible,1,30368855,1
+Testa Arachidis Hypogaeae,Tacrolimus,High,Harmful,1,32930420,2
+Thalictrum petaloideum,Caffeine,Low,No Effect,1,21870106,0
+Thalictrum petaloideum,Dextromethorphan,High,Negative,1,21870106,2
+Thalictrum petaloideum,Losartan,High,Negative,1,21870106,2
+Thalictrum petaloideum,Omeprazole,Low,No Effect,1,21870106,0
+Thalictrum petaloideum,Rosuvastatin,Medium,Possible,1,32292349,1
+Thalictrum petaloideum,Tacrolimus,High,Harmful,1,23765408,2
+Thymus serpyllum,Tacrolimus,High,Harmful,1,32930420,2
+Trifolium Pratense,Busulfan,High,Harmful,1,24185586,2
+Trifolium pratense,Doxorubicin,Medium,Possible,1,25947916,1
+Trifolium pratense,Midazolam,High,"Negative, Possible",2,"21680781, 21943317",2
+Trifolium pratense,Talinolol,Medium,Possible,1,21943317,1
+Trigonellae Semen,Midazolam,High,Negative,1,21680781,2
+Typha angustifolia,Midazolam,High,Negative,1,21680781,2
+Typha latifolia,Midazolam,High,Negative,1,21680781,2
+Ulmus Rubra,Busulfan,High,Harmful,1,24185586,2
+Uncaria sinensis,Midazolam,High,Negative,1,21680781,2
+Urtica dioica,Midazolam,High,Negative,1,21680781,2
+Valerian,Caffeine,Low,No Effect,1,15900287,0
+Valerian,Chlorzoxazone,Low,No Effect,1,15900287,0
+Valerian,Debrisoquin,Low,No Effect,1,15900287,0
+Valerian,Midazolam,Low,No Effect,1,15900287,0
+Valeriana amurensis,Doxorubicin,Medium,Possible,1,25947916,1
+Valeriana officinalis,Alprazolam,Low,No Effect,1,15328251,0
+Valeriana officinalis,Dextromethorphan,Low,No Effect,1,15328251,0
+Vatica rassak,Phenylephrine,Medium,Possible,1,30368855,1
+Veratrum album,Phenylephrine,Medium,Possible,1,30368855,1
+Veratrum grandiflorum,Phenylephrine,Medium,Possible,1,30368855,1
+Veronica anagalis aquatica L.,Doxorubicin,Medium,Possible,1,25947916,1
+Vitex rotundifolia [Syn. Vitex trifollia var. simplicifolia ],Doxorubicin,Medium,Possible,1,25947916,1
+Vitis vinifera,Phenylephrine,Medium,Possible,1,30368855,1
+flos Sophorae,Clevidipine,High,Negative,1,28892755,2
+flos Sophorae,Midazolam,High,"Negative, Possible",2,"21680781, 21943317",2
+flos Sophorae,Talinolol,Medium,Possible,1,21943317,1
+flos farfarae,Midazolam,High,Negative,1,21680781,2
+flos puerariae lobatae,Acetaminophen,Low,No Effect,1,18480186,0
+flos puerariae lobatae,Carbamazepine,Medium,Possible,1,19283724,1
+flos puerariae lobatae,Flurbiprofen,Low,No Effect,1,18480186,0
+flos puerariae lobatae,Midazolam,High,"Negative, No Effect, Possible",4,"18480186, 21680781, 21943317, 24398010",2
+flos puerariae lobatae,Phenytoin,Medium,Possible,2,16767797,1
+flos puerariae lobatae,Talinolol,Medium,Possible,1,21943317,1
+folium citri tangerie,Clevidipine,High,Negative,1,28892755,2
+folium citri tangerie,Cyclosporine,Low,No Effect,1,31156436,0
+fructus Sophorae,Clevidipine,High,Negative,1,28892755,2
+fructus Sophorae,Cyclosporine,Low,No Effect,1,31156436,0
+fructus Sophorae,Midazolam,High,"Negative, Possible",2,"21680781, 21943317",2
+fructus Sophorae,Talinolol,Medium,Possible,1,21943317,1
+fructus hippophae,Aspirin,Medium,Possible,1,32325408,1
+fructus hippophae,Clevidipine,High,Negative,1,28892755,2
+fructus hippophae,Doxorubicin,Medium,Possible,1,25947916,1
+fructus hippophae,Midazolam,High,Negative,1,21680781,2
+herba Menthae,Clevidipine,High,Negative,1,28892755,2
+herba Menthae,Doxorubicin,Medium,Possible,1,25947916,1
+herba Menthae,Tacrolimus,High,Harmful,1,32930420,2
+herba centellae,Aspirin,Medium,Possible,1,32325408,1
+herba centellae,Midazolam,High,Negative,1,21680781,2
+herba centellae,Tacrolimus,High,Harmful,1,32930420,2
+herba ecliptae,Doxorubicin,Medium,Possible,1,25947916,1
+herba ecliptae,Midazolam,High,Negative,1,21680781,2
+herba ecliptae,Tacrolimus,High,Harmful,1,32930420,2
+herba meconpsis integrifoliae,Doxorubicin,Medium,Possible,1,25947916,1
+herba meconpsis integrifoliae,Midazolam,High,Negative,1,21680781,2
+herba meconpsis integrifoliae,Tacrolimus,High,Harmful,1,32930420,2
+herba pyrolae chinensis,Midazolam,High,Negative,1,21680781,2
+herba thymi mongolici,Tacrolimus,High,Harmful,1,32930420,2
+nodus nelumbinis rhizomatis,Caffeine,Low,No Effect,1,21870106,0
+nodus nelumbinis rhizomatis,Dextromethorphan,High,Negative,1,21870106,2
+nodus nelumbinis rhizomatis,Losartan,High,Negative,1,21870106,2
+nodus nelumbinis rhizomatis,Omeprazole,Low,No Effect,1,21870106,0
+nodus nelumbinis rhizomatis,Tacrolimus,High,Harmful,1,23765408,2
+pericarpium papaveris,Aspirin,Medium,Possible,1,32325408,1
+pericarpium pyri,Midazolam,High,Negative,1,21680781,2
+pollen typhae,Midazolam,High,Negative,1,21680781,2
+radix Peucedani,Midazolam,High,Negative,1,21680781,2
+radix Peucedani,Phenylephrine,Medium,Possible,1,30368855,1
+radix asteris,Doxorubicin,Medium,Possible,1,25947916,1
+radix asteris,Midazolam,High,Negative,1,21680781,2
+radix asteris,Tacrolimus,High,Harmful,1,32930420,2
+radix tripterygii wilfordii,Clevidipine,High,Negative,1,28892755,2
+radix tripterygii wilfordii,Cyclosporine,Low,No Effect,1,31156436,0
+radix tripterygii wilfordii,Ibuprofen,Low,No Effect,1,30897305,0
+radix tripterygii wilfordii,Potassium,Medium,Possible,1,3297472,1
+radix tripterygii wilfordii,Sodium Chloride,Medium,Possible,1,3297472,1
+semen sapindi mukorossi,Tacrolimus,High,Harmful,1,32930420,2

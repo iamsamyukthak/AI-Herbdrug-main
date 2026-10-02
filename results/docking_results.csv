@@ -1,0 +1,9 @@
+timestamp_utc,rank,herb,drug,hgnn_score,compound,protein,docking_score,binding_pose,docking_status,reason
+2026-10-02T04:21:17.025992+00:00,1,Abelmoschus manihot,Busulfan,0.45475366711616516,Myricetin,CYP2C9,,,unavailable,No docking box is configured for protein 'CYP2C9'.
+2026-10-02T04:21:17.025992+00:00,1,Abelmoschus manihot,Busulfan,0.45475366711616516,Myricetin,CYP2D6,,,unavailable,No docking box is configured for protein 'CYP2D6'.
+2026-10-02T04:21:17.025992+00:00,1,Abelmoschus manihot,Busulfan,0.45475366711616516,Myricetin,CYP3A4,,,unavailable,No exact ligand PDBQT file is available for 'Myricetin' (expected myricetin.pdbqt).
+2026-10-02T04:21:17.025992+00:00,1,Abelmoschus manihot,Busulfan,0.45475366711616516,Quercetin,CYP1A2,,,unavailable,No docking box is configured for protein 'CYP1A2'.
+2026-10-02T04:21:17.025992+00:00,1,Abelmoschus manihot,Busulfan,0.45475366711616516,Quercetin,CYP2C19,,,unavailable,No docking box is configured for protein 'CYP2C19'.
+2026-10-02T04:21:17.025992+00:00,1,Abelmoschus manihot,Busulfan,0.45475366711616516,Quercetin,CYP2C9,,,unavailable,No docking box is configured for protein 'CYP2C9'.
+2026-10-02T04:21:17.025992+00:00,1,Abelmoschus manihot,Busulfan,0.45475366711616516,Quercetin,CYP2D6,,,unavailable,No docking box is configured for protein 'CYP2D6'.
+2026-10-02T04:21:17.025992+00:00,1,Abelmoschus manihot,Busulfan,0.45475366711616516,Quercetin,CYP3A4,-6.688,c:\Users\samlocal\Desktop\hehehe\patent\AI-Herbdrug-main\docking\results\dock_quercetin.pdbqt_CYP3A4.pdbqt,completed,

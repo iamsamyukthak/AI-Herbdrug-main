@@ -1,0 +1,11 @@
+Drug,Drug_Class,Target_Protein
+Warfarin,Anticoagulant,CYP2C9
+Metformin,Antidiabetic,AMPK
+Aspirin,NSAID,COX-1
+Paracetamol,Analgesic,COX-2
+Amlodipine,Antihypertensive,CACNA1C
+Atorvastatin,Statin,HMGCR
+Ibuprofen,NSAID,COX-2
+Losartan,Antihypertensive,AGTR1
+Omeprazole,Proton Pump Inhibitor,ATP4A
+Clopidogrel,Antiplatelet,P2RY12
